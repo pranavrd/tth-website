@@ -10,7 +10,7 @@
 				<div class="elementor-container elementor-column-gap-extended">
 					<div class="elementor-row">
 						<div data-id="eccb05a"
-							class="elementor-element elementor-element-eccb05a elementor-column elementor-col-25 elementor-top-column"
+							class="elementor-element elementor-element-eccb05a elementor-column elementor-col-50 elementor-top-column"
 							data-element_type="column">
 							<div class="elementor-column-wrap  elementor-element-populated">
 								<div class="elementor-widget-wrap">
@@ -31,6 +31,45 @@
 								</div>
 							</div>
 						</div>
+						<div data-id="4846b17a"
+							class="elementor-element elementor-element-4846b17a elementor-column elementor-col-25 elementor-top-column"
+							data-element_type="column">
+							<div class="elementor-column-wrap  elementor-element-populated">
+								<div class="elementor-widget-wrap">
+									<div data-id="46e50bb3"
+										class="elementor-element elementor-element-46e50bb3 elementor-shape-rounded elementor-widget elementor-widget-social-icons"
+										data-element_type="social-icons.default">
+										<div class="elementor-widget-container">
+											<div class="elementor-social-icons-wrapper">
+												<a
+													class="elementor-icon elementor-social-icon elementor-social-icon-linkedin"
+													href="https://www.linkedin.com/company/rv-telecom-thinking-hats-pvt-ltd-tth-consulting-services"
+													target="_blank"> <span class="elementor-screen-only">Linkedin</span>
+													<i class="fa fa-linkedin"></i>
+												</a> <a
+													class="elementor-icon elementor-social-icon elementor-social-icon-facebook"
+													href="https://www.facebook.com/tthconsulting" target="_blank">
+													<span class="elementor-screen-only">Facebook</span> <i
+													class="fa fa-facebook"></i>
+												</a>  
+											</div>
+										</div>
+									</div>
+									<div data-id="056642c"
+										class="elementor-element elementor-element-056642c elementor-align-center elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list"
+										data-element_type="icon-list.default">
+										<div class="elementor-widget-container">
+											<ul class="elementor-icon-list-items">
+												<li class="elementor-icon-list-item"><a
+													href="privacy2.jsp"> <span
+														class="elementor-icon-list-text" style="font-color: white;">Our Privacy Policy</span>
+												</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 						<div data-id="2761988"
 							class="elementor-element elementor-element-2761988 elementor-column elementor-col-25 elementor-top-column"
 							data-element_type="column">
@@ -42,27 +81,27 @@
 										<div class="elementor-widget-container">
 											<ul class="elementor-icon-list-items">
 												<li class="elementor-icon-list-item"><a
-													href="#">
+													href="telecom-consulting.jsp">
 														<span class="elementor-icon-list-text">Telecom Consulting</span>
 												</a></li>
 												<li class="elementor-icon-list-item"><a
-													href="#">
+													href="mobility-services.jsp">
 														<span class="elementor-icon-list-text">Mobility Services</span>
 												</a></li>
 												<li class="elementor-icon-list-item"><a
-													href="#">
+													href="assurance-services.jsp">
 														<span class="elementor-icon-list-text">Assurance Services</span>
 												</a></li>
 												<li class="elementor-icon-list-item"><a
-													href="#">
+													href="adm.jsp">
 														<span class="elementor-icon-list-text">ADM</span>
 												</a></li>
 												<li class="elementor-icon-list-item"><a
-													href="#">
+													href="mascot.jsp">
 														<span class="elementor-icon-list-text">MASCOT</span>
 												</a></li>
 												<li class="elementor-icon-list-item"><a
-													href="#">
+													href="techCap.jsp">
 														<span class="elementor-icon-list-text">Tech CAP</span>
 												</a></li>
 											</ul>
@@ -92,15 +131,22 @@
 											<ul class="elementor-icon-list-items">
 												<li class="elementor-icon-list-item"><a
 													href="mailto:vijaya.kamath@tthconsulting.com"> <span
-														class="elementor-icon-list-text">vijaya.kamath@tthconsulting.com</span>
+														class="elementor-icon-list-text"><i class="fa fa-envelope"></i>&nbsp;Vijaya Kamath</span>
 												</a></li>
 												<li class="elementor-icon-list-item"><a
-													href="mailto:prakash.krishnan@tthconsulting.com">
-														<span class="elementor-icon-list-text">prakash.krishnan@tthconsulting.com</span>
+													href="mailto:prakash.krishnan@tthconsulting.com">													    
+														<span class="elementor-icon-list-text"><i class="fa fa-envelope"></i>&nbsp;Prakash Krishnan</span>
 												</a></li>
 												<li class="elementor-icon-list-item"><a
 													href="mailto:ashish.chauhan@tthconsulting.com">
-														<span class="elementor-icon-list-text">ashish.chauhan@tthconsulting.com	</span>
+														<span class="elementor-icon-list-text"><i class="fa fa-envelope"></i>&nbsp;Ashish Chauhan</span>
+												</a></li>
+												<li class="elementor-icon-list-item"><a
+													href="tel:7940308579"> <span
+														class="elementor-icon-list-icon">
+													</span> <span class="elementor-icon-list-text"><i
+															class="fa fa-phone" aria-hidden="true"></i>+91 79 4030
+															8579</span>
 												</a></li>
 											</ul>
 										</div>
@@ -133,6 +179,7 @@
 								</div>
 							</div>
 						</div>
+						<br><br>
 						<div data-id="7820f498"
 							class="elementor-element elementor-element-7820f498 elementor-column elementor-col-50 elementor-top-column"
 							data-element_type="column">
@@ -144,7 +191,7 @@
 										<div class="elementor-widget-container">
 											<h3 class="elementor-heading-title elementor-size-default">
 												Unit 202, Akshar Bluechip IT Park, Thane Belapur Road, Vashi
-												Turbhe +91 79 4030 8579</h3>
+												Turbhe</h3>												
 										</div>
 									</div>
 								</div>

@@ -9,7 +9,7 @@
 	data-elementor-device-mode="desktop">
 	<%@include file="Header.jsp" %>
 	<article id="post-43"
-		class="post-43 page type-page status-publish hentry">
+		class="post-43 page type-page status-publish hentry" style="margin-bottom: 0;">
 	<div data-elementor-type="post" data-elementor-id="43"
 		class="elementor elementor-43" data-elementor-settings="[]">
 		<div class="elementor-inner">
@@ -52,14 +52,14 @@
 																<div class="elementor-icon-box-wrapper">
 																	<div class="elementor-icon-box-icon">
 																		<a class="elementor-icon elementor-animation-grow"
-																			href="https://www.kustura.com/managed-it-services-jacksonville-fl">
-																			<i class="fa fa-university" aria-hidden="true"></i>
+																			href="telecom-consulting.jsp">
+																			<img src="images/tele.png" width="80" height="300">
 																		</a>
 																	</div>
 																	<div class="elementor-icon-box-content">
 																		<h3 class="elementor-icon-box-title">
 																			<a
-																				href="#">Telecom Consulting</a>
+																				href="telecom-consulting.jsp">Telecom Consulting</a>
 																		</h3>
 																		<p class="elementor-icon-box-description">With the
 																			experience gathered over the years in the areas of
@@ -85,14 +85,14 @@
 																<div class="elementor-icon-box-wrapper">
 																	<div class="elementor-icon-box-icon">
 																		<a class="elementor-icon elementor-animation-grow"
-																			href="https://www.kustura.com/business-cyber-security-and-protection-jacksonville-fl">
-																			<i class="fa fa-lock" aria-hidden="true"></i>
+																			href="mobility-services.jsp">
+																			<img src="images/mob.png" width="100" height="300">
 																		</a>
 																	</div>
 																	<div class="elementor-icon-box-content">
 																		<h3 class="elementor-icon-box-title">
 																			<a
-																				href="#">Mobility Services</a>
+																				href="mobility-services.jsp">Mobility Services</a>
 																		</h3>
 																		<p class="elementor-icon-box-description">Our Mobility
 																			offerings mobile enables an enterprise in 6 weeks
@@ -119,14 +119,14 @@
 																<div class="elementor-icon-box-wrapper">
 																	<div class="elementor-icon-box-icon">
 																		<a class="elementor-icon elementor-animation-grow"
-																			href="https://www.kustura.com/business-cloud-hosting-solutions-jacksonville-fl">
-																			<i class="fa fa-cloud" aria-hidden="true"></i>
+																			href="assurance-services.jsp">
+																			<img src="images/assure.png" width="100" height="300">
 																		</a>
 																	</div>
 																	<div class="elementor-icon-box-content">
 																		<h3 class="elementor-icon-box-title">
 																			<a
-																				href="#">Assurance Services</a>
+																				href="assurance-services.jsp">Assurance Services</a>
 																		</h3>
 																		<p class="elementor-icon-box-description">Bring
 																			predictability and assure successfull deployment of
@@ -161,15 +161,16 @@
 																<div class="elementor-icon-box-wrapper">
 																	<div class="elementor-icon-box-icon">
 																		<a class="elementor-icon elementor-animation-grow"
-																			href="https://www.kustura.com/voip-phone-service-in-jacksonville-fl/">
-																			<i class="fa fa-volume-control-phone"
-																			aria-hidden="true"></i>
+																			href="adm.jsp">
+																			<!-- <i class="fa fa-volume-control-phone"
+																			aria-hidden="true" ></i> -->
+																			<img src="images/adm-2.png" width="100" height="300">
 																		</a>
 																	</div>
 																	<div class="elementor-icon-box-content">
 																		<h3 class="elementor-icon-box-title">
 																			<a
-																				href="https://www.kustura.com/voip-phone-service-in-jacksonville-fl/">ADM</a>
+																				href="adm.jsp">ADM</a>
 																		</h3>
 																		<p class="elementor-icon-box-description">Our SMEs
 																			with their expertise and rich global knowledge can
@@ -198,14 +199,14 @@
 																<div class="elementor-icon-box-wrapper">
 																	<div class="elementor-icon-box-icon">
 																		<a class="elementor-icon elementor-animation-grow"
-																			href="https://www.kustura.com/laser-printer-supplies-and-repairs-jacksonville-fl/">
-																			<i class="fa fa-print" aria-hidden="true"></i>
+																			href="mascot.jsp">
+																			<img src="images/mascot.png" width="100" height="300">
 																		</a>
 																	</div>
 																	<div class="elementor-icon-box-content">
 																		<h3 class="elementor-icon-box-title">
 																			<a
-																				href="https://www.kustura.com/laser-printer-supplies-and-repairs-jacksonville-fl/">MASCOT</a>
+																				href="mascot.jsp">MASCOT</a>
 																		</h3>
 																		<p class="elementor-icon-box-description">TTH MASCOT
 																			initiative intends to harness the potential of our
@@ -231,14 +232,14 @@
 																<div class="elementor-icon-box-wrapper">
 																	<div class="elementor-icon-box-icon">
 																		<a class="elementor-icon elementor-animation-grow"
-																			href="https://www.kustura.com/website-managing-and-marketing-in-jacksonville-fl">
-																			<i class="fa fa-edit" aria-hidden="true"></i>
+																			href="techCap.jsp">
+																			<img src="images/cap.png" width="100" height="300">
 																		</a>
 																	</div>
 																	<div class="elementor-icon-box-content">
 																		<h3 class="elementor-icon-box-title">
 																			<a
-																				href="https://www.kustura.com/website-managing-and-marketing-in-jacksonville-fl">Tech CAP</a>
+																				href="techCap.jsp">Tech CAP</a>
 																		</h3>
 																		<p class="elementor-icon-box-description">Tech CAP is
 																			a compact and customized offering developed by TTH to
@@ -274,9 +275,8 @@
 										class="elementor-element elementor-element-37d7df63 elementor-widget elementor-widget-heading"
 										data-element_type="heading.default">
 										<div class="elementor-widget-container">
-											<h2 class="elementor-heading-title elementor-size-default">
-												<a href="https://www.kustura.com/contact-us/">get the
-													services you need</a>
+											<h2 class="elementor-heading-title elementor-size-default" style="font-size: 40px;">
+												<a href="contact.jsp">Thinking <span style="color: #13aff0">Telecom</span> <br> Simplifying <span style="color: #13aff0">IT</span></a>
 											</h2>
 										</div>
 									</div>
@@ -316,28 +316,7 @@
 												</p>
 											</div>
 										</div>
-									</div>
-									<div data-id="2b62c577"
-										class="elementor-element elementor-element-2b62c577 elementor-widget elementor-widget-heading"
-										data-element_type="heading.default">
-										<div class="elementor-widget-container">
-											<h2 class="elementor-heading-title elementor-size-default">One
-												Time Service</h2>
-										</div>
-									</div>
-									<div data-id="4c2d38f9"
-										class="elementor-element elementor-element-4c2d38f9 elementor-widget elementor-widget-text-editor"
-										data-element_type="text-editor.default">
-										<div class="elementor-widget-container">
-											<div class="elementor-text-editor elementor-clearfix">
-												<p>Need help with a specific problem? Our expert IT
-													technicians can help resolve your IT issues straightaway.
-													Our competitive flat rate repair rates and excellent
-													customer support make us proud to serve the first coast
-													Jacksonville, FL area.</p>
-											</div>
-										</div>
-									</div>
+									</div>								
 								</div>
 							</div>
 						</div>
@@ -368,206 +347,11 @@
 						</div>
 					</div>
 				</div>
-				</section>
-				<section data-id="69c7a251"
-					class="elementor-element elementor-element-69c7a251 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-					data-element_type="section">
-				<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-row">
-						<div data-id="5c5b6ede"
-							class="elementor-element elementor-element-5c5b6ede elementor-column elementor-col-100 elementor-top-column"
-							data-element_type="column">
-							<div class="elementor-column-wrap  elementor-element-populated">
-								<div class="elementor-widget-wrap">
-									<div data-id="2ac53759"
-										class="elementor-element elementor-element-2ac53759 animated animated-slow elementor-widget elementor-widget-heading fadeIn"
-										data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:400}"
-										data-element_type="heading.default">
-										<div class="elementor-widget-container">
-											<h2 class="elementor-heading-title elementor-size-default">Local
-												IT Support in Mumbai, Bangalore and Chennai</h2>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				</section>
-				<section data-id="16a6c8c"
-					class="elementor-element elementor-element-16a6c8c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-					data-element_type="section">
-				<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-row">
-						<div data-id="78c31073"
-							class="elementor-element elementor-element-78c31073 elementor-column elementor-col-66 elementor-top-column"
-							data-element_type="column">
-							<div class="elementor-column-wrap  elementor-element-populated">
-								<div class="elementor-widget-wrap">
-									<div data-id="cebb77a"
-										class="elementor-element elementor-element-cebb77a animated animated-slow elementor-widget elementor-widget-text-editor fadeIn"
-										data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:700}"
-										data-element_type="text-editor.default">
-										<div class="elementor-widget-container">
-											<div class="elementor-text-editor elementor-clearfix">
-												<p>
-													<span class="veryhardreadability"><span
-														data-offset-key="fsnrd-0-0"> Kustura Technologies
-															specializes in IT support and IT solutions for individual
-															clients, small to medium sized businesses, non-profits,
-															and local organizations in Jacksonville, FL,</span></span><span
-														class="veryhardreadability"
-														style="font-size: 16px; letter-spacing: 0px;"><span
-														data-offset-key="fsnrd-0-0">&nbsp;and Gainesville,
-															FL</span></span><span style="font-size: 16px; letter-spacing: 0px;"
-														data-offset-key="fsnrd-1-0">. Let Kustura show you
-														the</span><span style="font-size: 16px; letter-spacing: 0px;"
-														data-offset-key="fsnrd-1-1">&nbsp;peace of mind
-														difference</span><span
-														style="font-size: 16px; letter-spacing: 0px;"
-														data-offset-key="fsnrd-1-2">&nbsp;with our hands-on
-														IT support. </span><span class="veryhardreadability"
-														style="font-size: 16px; letter-spacing: 0px;"><span
-														data-offset-key="fsnrd-2-0">From email and cloud
-															hosting, VoIP support, and computer hardware repair to
-															printer supplies such as ink and toner, we understand
-															your needs as a local partner and promises to deliver
-															top-notch managed IT support services in Jacksonville, FL</span></span><span
-														style="font-size: 16px; letter-spacing: 0px;"
-														data-offset-key="fsnrd-3-0">.</span><span
-														style="font-size: 16px; letter-spacing: 0px;">&nbsp;</span><a
-														style="font-size: 16px; letter-spacing: 0px;"
-														href="#">Let us know
-														how Kustura Technologies can help you today!&nbsp;</a>
-												</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div data-id="35a8db3b"
-							class="elementor-element elementor-element-35a8db3b elementor-column elementor-col-33 elementor-top-column"
-							data-element_type="column">
-							<div class="elementor-column-wrap  elementor-element-populated">
-								<div class="elementor-widget-wrap">
-									<div data-id="44d388b2"
-										class="elementor-element elementor-element-44d388b2 animated animated-slow elementor-widget elementor-widget-text-editor fadeInDown"
-										data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:200}"
-										data-element_type="text-editor.default">
-										<div class="elementor-widget-container">
-											<div class="elementor-text-editor elementor-clearfix"></div>
-										</div>
-									</div>
-									<div data-id="124ed643"
-										class="elementor-element elementor-element-124ed643 animated animated-slow elementor-widget elementor-widget-image fadeInDown"
-										data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:1000}"
-										data-element_type="image.default">
-										<div class="elementor-widget-container">
-											<div class="elementor-image">
-												<a href="#"
-													data-elementor-open-lightbox=""> <img width="150"
-													height="150"
-													src="images/TTH_Logo.png"
-													class="attachment-thumbnail size-thumbnail" alt=""
-													sizes="(max-width: 150px) 100vw, 150px">
-													<!-- srcset="https://www.kustura.com/wp-content/uploads/2018/12/Kustura_NewLogov3.3Large-150x150.jpeg 150w, https://www.kustura.com/wp-content/uploads/2018/12/Kustura_NewLogov3.3Large-300x300.jpeg 300w, https://www.kustura.com/wp-content/uploads/2018/12/Kustura_NewLogov3.3Large-768x772.jpeg 768w, https://www.kustura.com/wp-content/uploads/2018/12/Kustura_NewLogov3.3Large-1019x1024.jpeg 1019w, https://www.kustura.com/wp-content/uploads/2018/12/Kustura_NewLogov3.3Large-e1549383268442.jpeg 900w" -->
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				</section>
-				<section data-id="1f3aae5"
-					class="elementor-element elementor-element-1f3aae5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-					data-element_type="section">
-				<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-row">
-						<div data-id="5335481"
-							class="elementor-element elementor-element-5335481 elementor-column elementor-col-100 elementor-top-column"
-							data-element_type="column">
-							<div class="elementor-column-wrap  elementor-element-populated">
-								<div class="elementor-widget-wrap">
-									<div data-id="121094b"
-										class="elementor-element elementor-element-121094b elementor-widget elementor-widget-heading"
-										data-element_type="heading.default">
-										<div class="elementor-widget-container">
-											<h4 class="elementor-heading-title elementor-size-default">Development Centers</h4>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				</section>
-				<section data-id="86ae275"
-					class="elementor-element elementor-element-86ae275 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-					data-element_type="section">
-				<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-row">
-						<div data-id="3b3ae86"
-							class="elementor-element elementor-element-3b3ae86 elementor-column elementor-col-100 elementor-top-column"
-							data-element_type="column">
-							<div class="elementor-column-wrap  elementor-element-populated">
-								<div class="elementor-widget-wrap">
-									<div data-id="bf2c380"
-										class="elementor-element elementor-element-bf2c380 elementor-widget elementor-widget-text-editor"
-										data-element_type="text-editor.default">
-										<div class="elementor-widget-container">
-											<div class="elementor-text-editor elementor-clearfix">
-												<p>
-													Unit no 202, Akshar Bluechip IT Park, Midc thane Belapur road, Turbhe, Navi Mumbai
-												</p>
-												<p>
-													3A, Mettukazhani Street Adambakkam ,Chennai
-												</p>
-												<p>
-													TTH Development Centre NMAMIT, Nitte - 574110
-												</p>	
-												
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				</section>
-				<section data-id="984d16f"
-					class="elementor-element elementor-element-984d16f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-					data-element_type="section">
-				<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-row">
-						<div data-id="3a933dce"
-							class="elementor-element elementor-element-3a933dce elementor-column elementor-col-100 elementor-top-column"
-							data-element_type="column">
-							<div class="elementor-column-wrap  elementor-element-populated">
-								<div class="elementor-widget-wrap">
-									<div data-id="62ef5a6c"
-										class="elementor-element elementor-element-62ef5a6c elementor-widget elementor-widget-spacer"
-										data-element_type="spacer.default">
-										<div class="elementor-widget-container">
-											<div class="elementor-spacer">
-												<div class="elementor-spacer-inner"></div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				</section>
+				</section>				
 				<section data-id="3c00849a"
 					class="elementor-element elementor-element-3c00849a elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section"
 					data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
-					data-element_type="section">
+					data-element_type="section" style="">
 				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-row">
 						<div data-id="361671ff"
@@ -581,8 +365,7 @@
 										data-element_type="text-editor.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-text-editor elementor-clearfix">
-												<p style="text-align: center;">Have Peace of Mind with
-													Our Managed IT Solutions, Let Us Know How We Can Help</p>
+												<p style="text-align: center; color: white; font-size: 2em;">Let us help you</p>
 											</div>
 										</div>
 									</div>
@@ -610,7 +393,7 @@
 															size="1" type="text" name="form_fields[name]"
 															id="form-field-name"
 															class="elementor-field elementor-size-sm  elementor-field-textual"
-															placeholder="Name">
+															placeholder="John Doe">
 													</div>
 													<div
 														class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
@@ -625,7 +408,7 @@
 													<div
 														class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
 														<label for="form-field-message"
-															class="elementor-field-label">Comments</label>
+															class="elementor-field-label">Message</label>
 														<textarea
 															class="elementor-field-textual elementor-field  elementor-size-sm"
 															name="form_fields[message]" id="form-field-message"
@@ -635,7 +418,7 @@
 														class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100">
 														<button type="submit"
 															class="elementor-button elementor-size-sm">
-															<span> <span class="elementor-button-text">Send</span>
+															<span> <span class="elementor-button-text">Submit</span>
 															</span>
 														</button>
 													</div>
@@ -884,7 +667,7 @@
 					</div>
 				</div>
 				</section> -->
-				<section data-id="13db2301"
+				<!-- <section data-id="13db2301"
 					class="elementor-element elementor-element-13db2301 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 					data-element_type="section">
 				<div class="elementor-container elementor-column-gap-default">
@@ -908,8 +691,8 @@
 						</div>
 					</div>
 				</div>
-				</section>
-				<section data-id="02a9b03"
+				</section> -->
+				<!-- <section data-id="02a9b03"
 					class="elementor-element elementor-element-02a9b03 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 					data-element_type="section">
 				<div class="elementor-container elementor-column-gap-default">
@@ -923,7 +706,7 @@
 						</div>
 					</div>
 				</div>
-				</section>
+				</section> -->
 			</div>
 		</div>
 	</div>
