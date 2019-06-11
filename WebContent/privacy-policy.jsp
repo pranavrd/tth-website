@@ -314,7 +314,7 @@
 			</div>
 		</div>
 	</div> -->
-	<script type='text/javascript'>
+	<!-- <script type='text/javascript'>
 		var ElementorProFrontendConfig = {
 			"ajaxurl" : "https:\/\/www.kustura.com\/wp-admin\/admin-ajax.php",
 			"nonce" : "5ecbd3db09",
@@ -392,7 +392,7 @@
 				"app_id" : ""
 			}
 		};
-	</script>
+	</script> -->
 	<script type='text/javascript'>
 		var elementorFrontendConfig = {
 			"environmentMode" : {

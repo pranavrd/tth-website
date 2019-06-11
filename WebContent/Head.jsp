@@ -31,16 +31,16 @@
 	src="https://connect.facebook.net/signals/config/2392661914286184?v=2.8.51&amp;r=stable"
 	async=""></script>
 <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script> -->
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kustura.com/#website","url":"https://www.kustura.com/","name":"Kustura.com","potentialAction":{"@type":"SearchAction","target":"https://www.kustura.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kustura.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kustura-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturatech"],"@id":"https://www.kustura.com/#organization","name":"Kustura Technologies","logo":"https://www.kustura.com/wp-content/uploads/2018/12/Kustura_Logo_Transparent.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kusturaaaa.com/#website","url":"https://www.kusturaaaa.com/","name":"Kusturaaaa.com","potentialAction":{"@type":"SearchAction","target":"https://www.kusturaaaa.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kusturaaaa.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kusturaaaa-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturaaaatech"],"@id":"https://www.kusturaaaa.com/#organization","name":"kusturaaaa Technologies","logo":"https://www.kusturaaaa.com/wp-content/uploads/2018/12/kusturaaaa_Logo_Transparent.png"}</script>
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml"
 	title="tthconsulting.com » Feed" href="#">
 <link rel="alternate" type="application/rss+xml"
 	title="tthconsulting.com » Comments Feed" href="#">
-<script type="text/javascript">var frontEndAjaxURL = "https://www.kustura.com/wp-admin/admin-ajax.php";</script>
-<script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.kustura.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+<script type="text/javascript">var frontEndAjaxURL = "https://www.kusturaaaa.com/wp-admin/admin-ajax.php";</script>
+<script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.kusturaaaa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
 <script src="js/wp-emoji-release.js" type="text/javascript" defer=""></script>
 <link rel="stylesheet" id="shuttle-google-fonts-css"
@@ -127,19 +127,25 @@
 <link rel="stylesheet" id="google-fonts-1-css"
 	href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CComfortaa%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCousine%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.1.1"
 	type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-2966-css"
+		href="css/autoptimize_single_825b8d4c26ab45a635e9a898a5ffc9ce.css"
+		type="text/css" media="all">
+<link rel='stylesheet' id='google-fonts-2-css'
+		href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.1.1'
+		type='text/css' media='all' />
 <script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript">var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"kustura.com","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1,"ga_with_gtag":0}};</script>
-<link rel="https://api.w.org/" href="https://www.kustura.com/wp-json/">
+<script type="text/javascript">var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"kusturaaaa.com","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1,"ga_with_gtag":0}};</script>
+<link rel="https://api.w.org/" href="https://www.kusturaaaa.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD"
-	href="https://www.kustura.com/xmlrpc.php?rsd">
+	href="https://www.kusturaaaa.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-	href="https://www.kustura.com/wp-includes/wlwmanifest.xml">
+	href="https://www.kusturaaaa.com/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 5.1.1">
-<link rel="shortlink" href="https://www.kustura.com/">
+<link rel="shortlink" href="https://www.kusturaaaa.com/">
 <link rel="alternate" type="application/json+oembed"
-	href="https://www.kustura.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kustura.com%2F">
+	href="https://www.kusturaaaa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kusturaaaa.com%2F">
 <link rel="alternate" type="text/xml+oembed"
-	href="https://www.kustura.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kustura.com%2F&amp;format=xml">
+	href="https://www.kusturaaaa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kusturaaaa.com%2F&amp;format=xml">
 <script data-cfasync="false">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;

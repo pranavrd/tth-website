@@ -80,7 +80,7 @@
 		</div>
 	</article>
 	<%@include file="Footer.jsp" %>
-	<script type="text/javascript">
+	<!-- <script type="text/javascript">
 		var ElementorProFrontendConfig = {
 			"ajaxurl" : "https:\/\/www.kustura.com\/wp-admin\/admin-ajax.php",
 			"nonce" : "d586c4fbe6",
@@ -158,7 +158,7 @@
 				"app_id" : ""
 			}
 		};
-	</script>
+	</script> -->
 	<script type="text/javascript">
 		var elementorFrontendConfig = {
 			"environmentMode" : {
