@@ -14,6 +14,71 @@
 		class="elementor elementor-43" data-elementor-settings="[]">
 		<div class="elementor-inner">
 			<div class="elementor-section-wrap">
+<<<<<<< HEAD
+=======
+				<section data-id="5ff35e9f"
+					class="elementor-element elementor-element-5ff35e9f elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
+					data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-row">
+						<div data-id="75bc0b09"
+							class="elementor-element elementor-element-75bc0b09 elementor-column elementor-col-50 elementor-top-column"
+							data-element_type="column">
+							<div class="elementor-column-wrap  elementor-element-populated">
+								<div class="elementor-widget-wrap">
+									<div data-id="37d7df63"
+										class="elementor-element elementor-element-37d7df63 elementor-widget elementor-widget-heading"
+										data-element_type="heading.default">
+										<div class="elementor-widget-container">
+											<h2 class="elementor-heading-title elementor-size-default" style="font-size: 3em;">
+												<a href="contact.jsp">Thinking <span style="color: #13aff0">Telecom</span> <br> Simplifying <span style="color: #13aff0">IT</span></a>
+											</h2>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div data-id="7a9aabae"
+							class="elementor-element elementor-element-7a9aabae elementor-column elementor-col-50 elementor-top-column"
+							data-element_type="column">
+							<div class="elementor-column-wrap  elementor-element-populated">
+								<div class="elementor-widget-wrap">
+									<div data-id="5a4264e3"
+										class="elementor-element elementor-element-5a4264e3 elementor-widget elementor-widget-heading"
+										data-element_type="heading.default">
+										<div class="elementor-widget-container">
+											<h2 class="elementor-heading-title elementor-size-default">Who are we?</h2>
+										</div>
+									</div>
+									<div data-id="3cccf185"
+										class="elementor-element elementor-element-3cccf185 elementor-widget elementor-widget-text-editor"
+										data-element_type="text-editor.default">
+										<div class="elementor-widget-container">
+											<div class="elementor-text-editor elementor-clearfix">
+												<p>
+													<span
+														style="font-family: Roboto, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: 0px;">TTH
+														Consulting Services is a team of experienced IT
+														professionals with over 60+ years of experience and
+														successfully served in various capacities spanning
+														pre-sales, sales, account management and delivery in IT
+														functions of Telcos and large enterprises. TTH Consulting
+														Services understands exactly the pain points of Telecom
+														Service Providers and Enterprises we offer are focused to
+														address precisely those points there by allowing them to
+														retain their core domain and expand their boundaries to
+														maximise returns. </span>
+												</p>
+											</div>
+										</div>
+									</div>								
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</section>
+>>>>>>> sub final w/o header collapsible
 				<section data-id="2067fb65"
 					class="elementor-element elementor-element-2067fb65 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 					data-element_type="section">
@@ -261,6 +326,7 @@
 					</div>
 				</div>
 				</section>
+<<<<<<< HEAD
 				<section data-id="5ff35e9f"
 					class="elementor-element elementor-element-5ff35e9f elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 					data-element_type="section">
@@ -323,6 +389,8 @@
 					</div>
 				</div>
 				</section>
+=======
+>>>>>>> sub final w/o header collapsible
 				<section data-id="5e39dffb"
 					class="elementor-element elementor-element-5e39dffb elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 					data-element_type="section">

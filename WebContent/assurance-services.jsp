@@ -71,6 +71,7 @@
 	</article>
 	<div class="clearboth"></div>
 	<%@include file="Footer.jsp"%>
+<<<<<<< HEAD
 	<div data-elementor-type="popup" data-elementor-id="2926"
 		class="elementor elementor-2926 elementor-location-popup"
 		data-elementor-settings="{&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
@@ -115,6 +116,9 @@
 			</div>
 		</div>
 	</div>
+=======
+	
+>>>>>>> sub final w/o header collapsible
 	<!-- <script type='text/javascript'>
 		var ElementorProFrontendConfig = {
 			"ajaxurl" : "https:\/\/www.kustura.com\/wp-admin\/admin-ajax.php",

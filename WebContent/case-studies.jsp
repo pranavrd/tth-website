@@ -122,7 +122,14 @@
 <link rel="stylesheet" id="elementor-post-2629-css"
 	href="css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css"
 	type="text/css" media="all">
+<<<<<<< HEAD
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+=======
+<link
+	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
+	rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+>>>>>>> sub final w/o header collapsible
 <!-- <link rel="stylesheet" 
 	href="css/Media.css"
 	type="text/css" media="all"> -->

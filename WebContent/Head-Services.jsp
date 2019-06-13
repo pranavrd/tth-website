@@ -101,6 +101,10 @@
 <link rel='stylesheet' href='css/formreset.min.css' type='text/css'
 	media='all' />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<<<<<<< HEAD
+=======
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+>>>>>>> sub final w/o header collapsible
 <!-- 
 <link rel='stylesheet' href='css/main.css' type='text/css'
 	media='all' />'
@@ -121,9 +125,15 @@
 <link rel="stylesheet" id="elementor-post-2629-css"
 	href="css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css"
 	type="text/css" media="all">
+<<<<<<< HEAD
 <!-- <link rel="stylesheet" 
 	href="css/Media.css"
 	type="text/css" media="all"> -->
+=======
+<link rel="stylesheet" 
+	href="css/Media.css"
+	type="text/css" media="all">
+>>>>>>> sub final w/o header collapsible
 <link rel="stylesheet" id="google-fonts-1-css"
 	href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CComfortaa%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCousine%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.1.1"
 	type="text/css" media="all">

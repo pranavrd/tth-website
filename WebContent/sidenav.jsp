@@ -29,6 +29,10 @@
 																
 															</aside>
 														</div> -->
+<<<<<<< HEAD
+=======
+					<div role="complementary">
+>>>>>>> sub final w/o header collapsible
 					<aside id="sidebar-nav"
 						class="widget sidebar-nav sidebar-content menu-widget clearfix">
 						<h3 class="widget-title">Services &amp; Solutions</h3>
@@ -46,6 +50,10 @@
 							<li class=""><a href="techCap.jsp">Tech CAP</a></li>
 						</ul>
 					</aside>
+<<<<<<< HEAD
+=======
+					</div>
+>>>>>>> sub final w/o header collapsible
 				</div>
 			</div>
 		</div>

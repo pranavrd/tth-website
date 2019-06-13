@@ -3,7 +3,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <%@include file="Head.jsp"%>
+<<<<<<< HEAD
 
+=======
+>>>>>>> sub final w/o header collapsible
 <body
 	class="page-template-default page page-id-53 wp-custom-logo layout-sidebar-none intro-on layout-responsive header-style1 elementor-default elementor-page elementor-page-53"
 	data-elementor-device-mode="mobile">
@@ -130,6 +133,7 @@
 																</div>
 															</div>
 														</div>
+<<<<<<< HEAD
 														<div data-id="1f71ea81"
 															class="elementor-element elementor-element-1f71ea81 elementor-widget elementor-widget-heading"
 															data-element_type="heading.default">
@@ -140,6 +144,8 @@
 																</h2>
 															</div>
 														</div>
+=======
+>>>>>>> sub final w/o header collapsible
 													</div>
 												</div>
 											</div>
@@ -187,7 +193,11 @@
 																<div class="elementor-image-box-wrapper">
 																	<div class="elementor-image-box-content">
 																		<h3 class="elementor-image-box-title">
+<<<<<<< HEAD
 																			Vijaya Kamath, <br>Founder &amp; Director
+=======
+																			Vijaya Kamath, <br>Founder Director
+>>>>>>> sub final w/o header collapsible
 																		</h3>
 																		<p class="elementor-image-box-description">Our
 																			Founder Director, Vijaya Vivek Kamath, founded

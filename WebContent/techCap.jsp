@@ -83,6 +83,7 @@
 		</div>
 	</article>
 	<div class="clearboth"></div>
+<<<<<<< HEAD
 	<%@include file="Footer.jsp"%>
 	<div data-elementor-type="popup" data-elementor-id="2926"
 		class="elementor elementor-2926 elementor-location-popup"
@@ -128,6 +129,9 @@
 			</div>
 		</div>
 	</div>
+=======
+	<%@include file="Footer.jsp"%>	
+>>>>>>> sub final w/o header collapsible
 	<!-- <script type='text/javascript'>
 		var ElementorProFrontendConfig = {
 			"ajaxurl" : "https:\/\/www.kustura.com\/wp-admin\/admin-ajax.php",
