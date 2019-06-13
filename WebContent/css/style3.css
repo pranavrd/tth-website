@@ -132,7 +132,7 @@ body {
 }
 
 p {
-  color: #6a6a6a;
+  /* color: #6a6a6a; */
   line-height: 1.8em;
   margin-bottom: 15px;
 }
@@ -550,7 +550,7 @@ img {
 }
 
 .section-title-s5 p, .section-title-s6 p, .section-title-s7 p {
-  color: #6a6a6a;
+  /* color: #6a6a6a; */
 }
 
 .section-title-s6 h2, .section-title-s7 h2 {
@@ -1760,7 +1760,7 @@ img {
   border-bottom: 1px solid #eff1f3;
   padding-bottom: 10px;
   font-weight: 600;
-  color: #6a6a6a;
+  /* color: #6a6a6a */
 }
 
 .blog-sidebar .recent-comments .post-by {
@@ -6483,7 +6483,7 @@ img {
 }
 
 .pricing .pricing-grids .pricing-body ul li {
-  color: #6a6a6a;
+ /*  color: #6a6a6a; */
 }
 
 .pricing .pricing-grids .pricing-body ul li i {
@@ -6599,7 +6599,7 @@ img {
 .service-single-content .download a {
   padding: 10px 20px 10px 40px;
   border: 2px solid #296484;
-  color: #6a6a6a;
+  /* color: #6a6a6a; */
   font-weight: 600;
   position: relative;
 }
