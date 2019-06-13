@@ -34128,7 +34128,11 @@ to {
 	border: 0 solid;
 	border-radius: 3px;
 	background-color: rgba(0, 0, 0, .05);
+<<<<<<< HEAD
 	color: #494c4f
+=======
+	color: white;
+>>>>>>> ce37fb9306a1926d408a3e19f10d8871b37a4ce5
 }
 
 .elementor-menu-toggle i:before {
@@ -35354,4 +35358,8 @@ ul.elementor-nav-menu--dropdown a, ul.elementor-nav-menu--dropdown a:focus,
 #slider .rslides img {
 	height: 100%;
 	max-height: 350px
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ce37fb9306a1926d408a3e19f10d8871b37a4ce5
