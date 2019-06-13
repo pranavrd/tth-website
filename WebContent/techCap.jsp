@@ -17,7 +17,63 @@
 							data-element_type="section">
 							<div class="elementor-container elementor-column-gap-default">
 								<div class="elementor-row">
-								<%@include file="sidenav.jsp" %>
+									<div
+										class="elementor-element elementor-column elementor-col-25 elementor-top-column"
+										data-element_type="column">
+										<div
+											class="elementor-column-wrap  elementor-element-populated">
+											<div class="elementor-widget-wrap">
+												<div
+													class="elementor-element elementor-widget elementor-widget-text-editor"
+													data-element_type="text-editor.default">
+													<div class="elementor-widget-container">
+														<!-- <div role="complementary"
+															class="col-md-3 col-sm-4 col-xs-12 col-md-pull-7 col-sm-pull-6">
+
+															<aside id="sidebar-nav"
+																class="widget sidebar-nav sidebar-content menu-widget clearfix">
+																<h3 class="widget-title">Services &amp; Solutions</h3>
+																<ul
+																	class="flexnav flexnav-show nav nav-tabs nav-stacked with-js opacity sm-screen"
+																	data-breakpoint="80">
+																	<li class="current_page_item  active"><a
+																		href="telecom-consulting.jsp">Telecom Consulting</a></li>
+																	<li class=""><a href="mobility-services.jsp">Mobility
+																			Services</a></li>
+																	<li class="current-page"><a
+																		href="assurance-services.jsp">Assurance Services</a></li>
+																	<li class=""><a href="adm.jsp">ADM</a></li>
+																	<li class=""><a href="mascot.jsp">MASCOT</a></li>
+																	<li class=""><a href="techCap.jsp">Tech CAP</a></li>
+																</ul>
+																
+															</aside>
+														</div> -->
+														<div role="complementary">
+															<aside id="sidebar-nav"
+																class="widget sidebar-nav sidebar-content menu-widget clearfix">
+																<h3 class="widget-title">Services &amp; Solutions</h3>
+																<ul
+																	class="flexnav flexnav-show nav nav-tabs nav-stacked with-js opacity sm-screen"
+																	data-breakpoint="80">
+																	<li class=""><a href="telecom-consulting.jsp">Telecom
+																			Consulting</a></li>
+																	<li class=""><a href="mobility-services.jsp">Mobility
+																			Services</a></li>
+																	<li class=""><a href="assurance-services.jsp">Assurance
+																			Services</a></li>
+																	<li class=""><a href="adm.jsp">ADM</a></li>
+																	<li class=""><a href="mascot.jsp">MASCOT</a></li>
+																	<li class="active"><a href="techCap.jsp"
+																		style="color: white;">Tech CAP</a></li>
+																</ul>
+															</aside>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
 									<div data-id="4419d8f2"
 										class="elementor-element elementor-element-4419d8f2 elementor-column elementor-col-75 elementor-top-column"
 										data-element_type="column">
@@ -33,20 +89,26 @@
 																<strong>Tech CAP</strong>
 															</h1>
 															<h3 style="color: #296484">What :</h3>
-															<p style="color: #737777;">Tech CAP is a compact and
-																customized offering developed by TTH to facilitate
-																better absorption<br> and utilization of new technology
-																trends and strategies by enterprises</p>
+															<p style="color: #737777;">
+																Tech CAP is a compact and customized offering developed
+																by TTH to facilitate better absorption<br> and
+																utilization of new technology trends and strategies by
+																enterprises
+															</p>
 															<h3 style="color: #296484">Why :</h3>
-															<p style="color: #737777;">This is a gap area in
-																enterprises which when effectively addressed can bring
-																about massive<br> benefits to the company w.r.t its
-																technology strategy & business impact</p>
+															<p style="color: #737777;">
+																This is a gap area in enterprises which when effectively
+																addressed can bring about massive<br> benefits to
+																the company w.r.t its technology strategy & business
+																impact
+															</p>
 															<h3 style="color: #296484">When :</h3>
-															<p style="color: #737777;">This program can be
-																commenced at any point in time during the year. However,
-																best results are foreseen<br> if this is taken up on a
-																quarterly basis covering 4 topics during a given year</p>
+															<p style="color: #737777;">
+																This program can be commenced at any point in time
+																during the year. However, best results are foreseen<br>
+																if this is taken up on a quarterly basis covering 4
+																topics during a given year
+															</p>
 															<h3 style="color: #296484">Where :</h3>
 															<p style="color: #737777;">This will be conducted in
 																your (customers) own office premises</p>
@@ -83,7 +145,7 @@
 		</div>
 	</article>
 	<div class="clearboth"></div>
-	<%@include file="Footer.jsp"%>	
+	<%@include file="Footer.jsp"%>
 	<!-- <script type='text/javascript'>
 		var ElementorProFrontendConfig = {
 			"ajaxurl" : "https:\/\/www.kustura.com\/wp-admin\/admin-ajax.php",

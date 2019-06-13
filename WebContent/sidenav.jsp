@@ -37,10 +37,10 @@
 							class="flexnav flexnav-show nav nav-tabs nav-stacked with-js opacity sm-screen"
 							data-breakpoint="80">
 							<li class=""><a
-								href="telecom-consulting.jsp">Telecom Consulting</a></li>
+								href="telecom-consulting.jsp" >Telecom Consulting</a></li>
 							<li class=""><a href="mobility-services.jsp">Mobility
 									Services</a></li>
-							<li class=""><a href="assurance-services.jsp">Assurance
+							<li class=""><a href="assurance-services.jsp" >Assurance
 									Services</a></li>
 							<li class=""><a href="adm.jsp">ADM</a></li>
 							<li class=""><a href="mascot.jsp">MASCOT</a></li>
