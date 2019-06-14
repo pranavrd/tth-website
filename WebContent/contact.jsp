@@ -92,15 +92,15 @@
 <link
 	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
 	rel="stylesheet" type="text/css" media="all">
-<<<<<<< HEAD
+
 <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-=======
+
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <!-- <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
->>>>>>> ce37fb9306a1926d408a3e19f10d8871b37a4ce5
+
 <!-- <link rel='stylesheet' href='css/bootstrap.min.css' type='text/css'
 	media='all' />
 <link rel='stylesheet' href='css/main.css' type='text/css'
