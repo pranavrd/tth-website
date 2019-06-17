@@ -199,7 +199,8 @@
 														class="elementor-item elementor-item-active">HOME</a></li>
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-68"><a
-														href="#" class="elementor-item has-submenu"
+														href="#" 
+														class="elementor-item has-submenu"
 														id="sm-15597079590129868-1" aria-haspopup="true"
 														aria-controls="sm-15597079590129868-2"
 														aria-expanded="false">SERVICES</a>
@@ -210,25 +211,31 @@
 															aria-expanded="false">
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2440"><a
-																href="telecom-consulting.jsp" class="elementor-sub-item">Telecom
+																href="telecom-consulting.jsp" 
+																class="elementor-sub-item">Telecom
 																	Consulting</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2439"><a
-																href="mobility-services.jsp" class="elementor-sub-item">Mobility
+																href="mobility-services.jsp"
+																class="elementor-sub-item">Mobility
 																	Services</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2442"><a
-																href="assurance-services.jsp" class="elementor-sub-item">Assurance
+																href="assurance-services.jsp" 
+																class="elementor-sub-item">Assurance
 																	Services</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2441"><a
-																href="adm.jsp" class="elementor-sub-item">ADM</a></li>
+																href="adm.jsp" 
+																class="elementor-sub-item">ADM</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2436"><a
-																href="mascot.jsp" class="elementor-sub-item">MASCOT</a></li>
+																href="mascot.jsp" 
+																class="elementor-sub-item">MASCOT</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2435"><a
-																href="techCap.jsp" class="elementor-sub-item">Tech
+																href="techCap.jsp" 
+																class="elementor-sub-item">Tech
 																	CAP</a></li>
 														</ul></li>
 													<li
@@ -244,18 +251,21 @@
 															aria-expanded="false">
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
-																href="About.jsp" class="elementor-sub-item">About us</a></li>
+																href="About.jsp" 
+																class="elementor-sub-item">About us</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
 																href="social-responsibility.jsp"
 																class="elementor-sub-item">Social Responsibility</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
-																href="case-studies.jsp" class="elementor-sub-item">Case
+																href="case-studies.jsp" 
+																class="elementor-sub-item">Case
 																	Studies</a></li>
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
-																href="white-papers.jsp" class="elementor-sub-item">White
+																href="white-papers.jsp" 
+																class="elementor-sub-item">White
 																	papers</a></li>
 														</ul></li>
 													<li
