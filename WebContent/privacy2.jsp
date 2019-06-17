@@ -90,7 +90,7 @@
 																				<p style="text-align: center;">
 																					<b>If at any time you wish to be removed from
 																						any of our email marketing or direct marketing
-																						campaigns, simply email us at info@tth.com </b>
+																						campaigns, simply email us at info@tthconsulting.com </b>
 																				</p>
 																			</div>
 																		</div>
