@@ -160,7 +160,7 @@
 	</article>
 	<div class="clearboth"></div>
 	<%@include file="Footer.jsp"%>
-	<script type='text/javascript'>
+	<!-- <script type='text/javascript'>
 		var elementorFrontendConfig = {
 			"environmentMode" : {
 				"edit" : false,
@@ -192,7 +192,7 @@
 				"excerpt" : ""
 			}
 		};
-	</script>
+	</script> -->
 	<script type="text/javascript" defer
 		src="js/autoptimize_1766581bb1b92ced5da7080acd5de87c.js"></script>
 </body>

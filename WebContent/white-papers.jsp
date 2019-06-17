@@ -29,8 +29,6 @@
 <meta name="twitter:site" content="">
 <meta name="twitter:image" content="">
 <meta name="twitter:creator" content="">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kusturaaaa.com/#website","url":"https://www.kusturaaaa.com/","name":"Kusturaaaa.com","potentialAction":{"@type":"SearchAction","target":"https://www.kusturaaaa.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kusturaaaa.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kusturaaaa-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturaaaatech"],"@id":"https://www.kusturaaaa.com/#organization","name":"kusturaaaa Technologies","logo":"https://www.kusturaaaa.com/wp-content/uploads/2018/12/kusturaaaa_Logo_Transparent.png"}</script>
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml"
@@ -39,10 +37,6 @@
 	title="tthconsulting.com » Comments Feed" href="#">
 <link rel="alternate" type="application/rss+xml"
 	title="tthconsulting.com Â» Comments Feed" href="#">
-<script type="text/javascript">var frontEndAjaxURL = "https://www.kusturaaaa.com/wp-admin/admin-ajax.php";</script>
-<script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.kusturaaaa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
-<script src="js/wp-emoji-release.js" type="text/javascript" defer=""></script>
 <link rel="stylesheet" id="shuttle-google-fonts-css"
 	href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;subset=latin%2Clatin-ext"
 	type="text/css" media="all">
@@ -85,7 +79,6 @@
 	href="css/bootstrap.min.css"
 	rel="stylesheet" type="text/css" media="all">
 
-<script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=sxxhx5jfuyygmki1dy7axw"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tthconsulting.com/#website","url":"https://www.tthconsulting.com/","name":"Antisyn","potentialAction":{"@type":"SearchAction","target":"https://www.tthconsulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 
 <style type="text/css">
 img.wp-smiley,
@@ -221,7 +214,18 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
         font-size: 16px;
     }
 }
-</style><script type="text/javascript">
+</style>
+
+<link rel="stylesheet" id="megacorp-main-style-css"
+	href="css/style3.css" type="text/css" media="all">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kusturaaaa.com/#website","url":"https://www.kusturaaaa.com/","name":"Kusturaaaa.com","potentialAction":{"@type":"SearchAction","target":"https://www.kusturaaaa.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kusturaaaa.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kusturaaaa-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturaaaatech"],"@id":"https://www.kusturaaaa.com/#organization","name":"kusturaaaa Technologies","logo":"https://www.kusturaaaa.com/wp-content/uploads/2018/12/kusturaaaa_Logo_Transparent.png"}</script>
+<script type="text/javascript">var frontEndAjaxURL = "https://www.kusturaaaa.com/wp-admin/admin-ajax.php";</script>
+<script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.kusturaaaa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<script src="js/wp-emoji-release.js" type="text/javascript" defer=""></script>
+<script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=sxxhx5jfuyygmki1dy7axw"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tthconsulting.com/#website","url":"https://www.tthconsulting.com/","name":"Antisyn","potentialAction":{"@type":"SearchAction","target":"https://www.tthconsulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="text/javascript">
 (function (d, t) {
   var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
   bh.type = 'text/javascript';
@@ -229,9 +233,6 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
   s.parentNode.insertBefore(bh, s);
   })(document, 'script');
 </script>
-
-<link rel="stylesheet" id="megacorp-main-style-css"
-	href="css/style3.css" type="text/css" media="all">
 </head>
 <body class="page-template-default page page-id-33" style="padding-top: 0px;">
       <div class="page-wrap">
