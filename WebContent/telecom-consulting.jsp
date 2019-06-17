@@ -27,28 +27,6 @@
 													class="elementor-element elementor-widget elementor-widget-text-editor"
 													data-element_type="text-editor.default">
 													<div class="elementor-widget-container">
-														<!-- <div role="complementary"
-															class="col-md-3 col-sm-4 col-xs-12 col-md-pull-7 col-sm-pull-6">
-
-															<aside id="sidebar-nav"
-																class="widget sidebar-nav sidebar-content menu-widget clearfix">
-																<h3 class="widget-title">Services &amp; Solutions</h3>
-																<ul
-																	class="flexnav flexnav-show nav nav-tabs nav-stacked with-js opacity sm-screen"
-																	data-breakpoint="80">
-																	<li class="current_page_item  active"><a
-																		href="telecom-consulting.jsp">Telecom Consulting</a></li>
-																	<li class=""><a href="mobility-services.jsp">Mobility
-																			Services</a></li>
-																	<li class="current-page"><a
-																		href="assurance-services.jsp">Assurance Services</a></li>
-																	<li class=""><a href="adm.jsp">ADM</a></li>
-																	<li class=""><a href="mascot.jsp">MASCOT</a></li>
-																	<li class=""><a href="techCap.jsp">Tech CAP</a></li>
-																</ul>
-																
-															</aside>
-														</div> -->
 														<div role="complementary">
 															<aside id="sidebar-nav"
 																class="widget sidebar-nav sidebar-content menu-widget clearfix">
@@ -172,7 +150,6 @@
 											</div>
 										</div>
 									</div>
-									<!--  -->
 								</div>
 							</div>
 						</section>
@@ -183,85 +160,6 @@
 	</article>
 	<div class="clearboth"></div>
 	<%@include file="Footer.jsp"%>
-	<!-- <script type='text/javascript'>
-		var ElementorProFrontendConfig = {
-			"ajaxurl" : "https:\/\/www.kustura.com\/wp-admin\/admin-ajax.php",
-			"nonce" : "a38783af47",
-			"shareButtonsNetworks" : {
-				"facebook" : {
-					"title" : "Facebook",
-					"has_counter" : true
-				},
-				"twitter" : {
-					"title" : "Twitter"
-				},
-				"google" : {
-					"title" : "Google+",
-					"has_counter" : true
-				},
-				"linkedin" : {
-					"title" : "LinkedIn",
-					"has_counter" : true
-				},
-				"pinterest" : {
-					"title" : "Pinterest",
-					"has_counter" : true
-				},
-				"reddit" : {
-					"title" : "Reddit",
-					"has_counter" : true
-				},
-				"vk" : {
-					"title" : "VK",
-					"has_counter" : true
-				},
-				"odnoklassniki" : {
-					"title" : "OK",
-					"has_counter" : true
-				},
-				"tumblr" : {
-					"title" : "Tumblr"
-				},
-				"delicious" : {
-					"title" : "Delicious"
-				},
-				"digg" : {
-					"title" : "Digg"
-				},
-				"skype" : {
-					"title" : "Skype"
-				},
-				"stumbleupon" : {
-					"title" : "StumbleUpon",
-					"has_counter" : true
-				},
-				"telegram" : {
-					"title" : "Telegram"
-				},
-				"pocket" : {
-					"title" : "Pocket",
-					"has_counter" : true
-				},
-				"xing" : {
-					"title" : "XING",
-					"has_counter" : true
-				},
-				"whatsapp" : {
-					"title" : "WhatsApp"
-				},
-				"email" : {
-					"title" : "Email"
-				},
-				"print" : {
-					"title" : "Print"
-				}
-			},
-			"facebook_sdk" : {
-				"lang" : "en_US",
-				"app_id" : ""
-			}
-		};
-	</script> -->
 	<script type='text/javascript'>
 		var elementorFrontendConfig = {
 			"environmentMode" : {

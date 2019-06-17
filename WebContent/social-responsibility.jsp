@@ -33,13 +33,7 @@
 															<div class="elementor-cta__bg-overlay"></div>
 														</div>
 														<div class="elementor-cta__content">
-															<!-- <div
-																class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
-																<a
-																	class="elementor-cta__button elementor-button elementor-size-xs">
-																</a>
 															</div>
- -->														</div>
 													</div>
 												</div>
 											</div>

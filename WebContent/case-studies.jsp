@@ -33,12 +33,6 @@
 <meta name="twitter:image"
 	content="">
 <meta name="twitter:creator" content="">
-<!-- <script
-	src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.8.51"
-	async=""></script>
-<script
-	src="https://connect.facebook.net/signals/config/2392661914286184?v=2.8.51&amp;r=stable"
-	async=""></script>
 <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script> -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kusturaaaa.com/#website","url":"https://www.kusturaaaa.com/","name":"Kusturaaaa.com","potentialAction":{"@type":"SearchAction","target":"https://www.kusturaaaa.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kusturaaaa.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kusturaaaa-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturaaaatech"],"@id":"https://www.kusturaaaa.com/#organization","name":"Kusturaaaa Technologies","logo":"https://www.kusturaaaa.com/wp-content/uploads/2018/12/Kusturaaaa_Logo_Transparent.png"}</script>
@@ -126,9 +120,6 @@
 	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
 	rel="stylesheet" type="text/css" media="all">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<!-- <link rel="stylesheet" 
-	href="css/Media.css"
-	type="text/css" media="all"> -->
 <link rel="stylesheet" id="google-fonts-1-css"
 	href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CComfortaa%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCousine%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.1.1"
 	type="text/css" media="all">
@@ -303,14 +294,6 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
 	<img height="1" width="1" style="display: none"
 		src="https://www.facebook.com/tr?id=2392661914286184&ev=PageView&noscript=1" />
 </noscript>
-<!-- <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-49089556-4', 'auto', {'useAmpClientId': true});
-  ga('require', 'displayfeatures');
-  ga('set', 'forceSSL', true);
-  ga('send', 'pageview');</script> -->
 </head>
 <body>
 	<%@include file="Header.jsp"%>
@@ -547,85 +530,6 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
 	<!--Javascript-->
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/main.js"></script>
-	<!-- <script type="text/javascript">
-		var ElementorProFrontendConfig = {
-			"ajaxurl" : "https:\/\/www.kustura.com\/wp-admin\/admin-ajax.php",
-			"nonce" : "d586c4fbe6",
-			"shareButtonsNetworks" : {
-				"facebook" : {
-					"title" : "Facebook",
-					"has_counter" : true
-				},
-				"twitter" : {
-					"title" : "Twitter"
-				},
-				"google" : {
-					"title" : "Google+",
-					"has_counter" : true
-				},
-				"linkedin" : {
-					"title" : "LinkedIn",
-					"has_counter" : true
-				},
-				"pinterest" : {
-					"title" : "Pinterest",
-					"has_counter" : true
-				},
-				"reddit" : {
-					"title" : "Reddit",
-					"has_counter" : true
-				},
-				"vk" : {
-					"title" : "VK",
-					"has_counter" : true
-				},
-				"odnoklassniki" : {
-					"title" : "OK",
-					"has_counter" : true
-				},
-				"tumblr" : {
-					"title" : "Tumblr"
-				},
-				"delicious" : {
-					"title" : "Delicious"
-				},
-				"digg" : {
-					"title" : "Digg"
-				},
-				"skype" : {
-					"title" : "Skype"
-				},
-				"stumbleupon" : {
-					"title" : "StumbleUpon",
-					"has_counter" : true
-				},
-				"telegram" : {
-					"title" : "Telegram"
-				},
-				"pocket" : {
-					"title" : "Pocket",
-					"has_counter" : true
-				},
-				"xing" : {
-					"title" : "XING",
-					"has_counter" : true
-				},
-				"whatsapp" : {
-					"title" : "WhatsApp"
-				},
-				"email" : {
-					"title" : "Email"
-				},
-				"print" : {
-					"title" : "Print"
-				}
-			},
-			"facebook_sdk" : {
-				"lang" : "en_US",
-				"app_id" : ""
-			}
-		};
-	</script> -->
 	<script type="text/javascript">
 		var elementorFrontendConfig = {
 			"environmentMode" : {

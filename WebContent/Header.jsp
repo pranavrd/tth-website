@@ -84,7 +84,6 @@
 													width="520" height="580" src="images/TTH_Logo_2.png"
 													class="attachment-full size-full" alt="TTH Logo"
 													style="display: block; margin-left: 0; margin-right: 900px;">
-													<!-- srcset="https://www.kustura.com/wp-content/uploads/2018/12/cropped-Kustura_Logo_Transparent.png 515w, https://www.kustura.com/wp-content/uploads/2018/12/cropped-Kustura_Logo_Transparent-274x300.png 274w" -->
 												</a>
 											</div>
 										</div>
@@ -195,20 +194,15 @@
 													data-smartmenus-id="15597079590129868">
 													<li
 														class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-9"><a
-														href="Home.jsp" aria-current="page"
+														href="Home.jsp"
 														class="elementor-item elementor-item-active">HOME</a></li>
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-68"><a
 														href="#" 
-														class="elementor-item has-submenu"
-														id="sm-15597079590129868-1" aria-haspopup="true"
-														aria-controls="sm-15597079590129868-2"
-														aria-expanded="false">SERVICES</a>
+														class="elementor-item has-submenu">SERVICES</a>
 														<ul class="sub-menu elementor-nav-menu--dropdown"
-															id="sm-15597079590129868-2" role="group"
-															aria-hidden="true"
-															aria-labelledby="sm-15597079590129868-1"
-															aria-expanded="false">
+															id="sm-15597079590129868-2" role="group">
+															
 															<li
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2440"><a
 																href="telecom-consulting.jsp" 
@@ -240,10 +234,7 @@
 														</ul></li>
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-70"><a
-														href="About.jsp" class="elementor-item has-submenu"
-														id="sm-15597079590129868-5" aria-haspopup="true"
-														aria-controls="sm-15597079590129868-6"
-														aria-expanded="false">ABOUT US</a>
+														href="About.jsp" class="elementor-item has-submenu">ABOUT US</a>
 														<ul class="sub-menu elementor-nav-menu--dropdown"
 															id="sm-15597079590129868-6" role="group"
 															aria-hidden="true"

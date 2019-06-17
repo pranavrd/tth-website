@@ -149,8 +149,6 @@
 												<div class="elementor-widget-container">
 													<div class="elementor-text-editor elementor-clearfix">
 														<p></p>
-														<!-- <h2>Who we are</h2>
-														<p></p> -->
 														<p>Your privacy is important to us. To better protect
 															your privacy we provide this notice explaining our online
 															information practices and the choices you can make about
@@ -161,8 +159,6 @@
 														<p></p>
 														<h2>The Information We Collect</h2>
 														<p></p>
-														<!-- <h3>Comments</h3>
-														<p></p> -->
 														<p>This notice applies to all information collected or
 															submitted on the website. On some pages, you can make
 															requests, and register to receive materials. The types of
@@ -175,35 +171,6 @@
 															</ul>
 														
 														<p></p>
-														<!-- <p></p>
-														<h3>Media</h3>
-														<p></p>
- -->														<!-- <p>If you upload images to the website, you should
-															avoid uploading images with embedded location data (EXIF
-															GPS) included. Visitors to the website can download and
-															extract any location data from images on the website.</p>
-														<p></p>
-														<h3>Cookies</h3>
-														<p></p>
-														<p>If you leave a comment on our site you may opt-in
-															to saving your name, email address and website in
-															cookies. These are for your convenience so that you do
-															not have to fill in your details again when you leave
-															another comment. These cookies will last for one year.</p>
-														<p></p>
-														<h3>Embedded content from other websites</h3>
-														<p></p>
-														<p>Articles on this site may include embedded content
-															(e.g. videos, images, articles, etc.). Embedded content
-															from other websites behaves in the exact same way as if
-															the visitor has visited the other website.</p>
-														<p></p>
-														<p>These websites may collect data about you, use
-															cookies, embed additional third-party tracking, and
-															monitor your interaction with that embedded content,
-															including tracking your interaction with the embedded
-															content if you have an account and are logged in to that
-															website.</p> -->
 														<p></p>
 														<h2>The Way We Use Information</h2>
 														<p></p>

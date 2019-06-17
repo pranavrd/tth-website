@@ -29,13 +29,6 @@
 <meta name="twitter:site" content="">
 <meta name="twitter:image" content="">
 <meta name="twitter:creator" content="">
-<!-- <script
-	src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.8.51"
-	async=""></script>
-<script
-	src="https://connect.facebook.net/signals/config/2392661914286184?v=2.8.51&amp;r=stable"
-	async=""></script>
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script> -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kusturaaaa.com/#website","url":"https://www.kusturaaaa.com/","name":"Kusturaaaa.com","potentialAction":{"@type":"SearchAction","target":"https://www.kusturaaaa.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kusturaaaa.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kusturaaaa-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturaaaatech"],"@id":"https://www.kusturaaaa.com/#organization","name":"kusturaaaa Technologies","logo":"https://www.kusturaaaa.com/wp-content/uploads/2018/12/kusturaaaa_Logo_Transparent.png"}</script>
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -88,13 +81,6 @@
 <link rel='stylesheet' id='elementor-post-2629-css'
 	href='css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css'
 	type='text/css' media='all' />
-<!-- <link
-	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
-	rel="stylesheet" type="text/css" media="all"> -->
-<link rel="stylesheet"
-	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- <link rel='stylesheet' href='css/icons-2.css' type='text/css'
-	media='all' /> -->
 <link
 	href="css/bootstrap.min.css"
 	rel="stylesheet" type="text/css" media="all">
@@ -268,11 +254,9 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
 											<div class="info">
 
 												<h4 style="color: darkgray;">Coming Soon...</h4>
-												<!--<p>CEO, Gryffindor</p>-->
 											</div>
 										</div>
 										<div class="rating">
-											<!--<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>-->
 										</div>
 									</div>
 								</div>

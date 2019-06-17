@@ -26,13 +26,6 @@
 <meta name="twitter:site" content="">
 <meta name="twitter:image" content="">
 <meta name="twitter:creator" content="">
-<!-- <script
-	src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.8.51"
-	async=""></script>
-<script
-	src="https://connect.facebook.net/signals/config/2392661914286184?v=2.8.51&amp;r=stable"
-	async=""></script>
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script> -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kusturaaaa.com/#website","url":"https://www.kusturaaaa.com/","name":"Kusturaaaa.com","potentialAction":{"@type":"SearchAction","target":"https://www.kusturaaaa.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kusturaaaa.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kusturaaaa-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturaaaatech"],"@id":"https://www.kusturaaaa.com/#organization","name":"kusturaaaa Technologies","logo":"https://www.kusturaaaa.com/wp-content/uploads/2018/12/kusturaaaa_Logo_Transparent.png"}</script>
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -83,50 +76,13 @@
 <link rel='stylesheet' id='elementor-post-2629-css'
 	href='css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css'
 	type='text/css' media='all' />
-<!-- <link rel='stylesheet' href='css/icons-2.css' type='text/css'
-	media='all' /> -->
-<!-- <link rel='stylesheet' href='css/style3.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/v4-shims.min.css' type='text/css'
-	media='all' /> -->
 <link
 	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
 	rel="stylesheet" type="text/css" media="all">
-
-<!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<!-- <link rel="stylesheet"
-	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
-
-<!-- <link rel='stylesheet' href='css/bootstrap.min.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/main.css' type='text/css'
-	media='all' />'
-<link rel='stylesheet' href='css/style3.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/all.min.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/browsers.min.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/custom.min.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='flexslider.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='formreset.min.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/formsmain.min.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/readyclass.min.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/style.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/style.m.css' type='text/css'
-	media='all' />
-<link rel='stylesheet' href='css/v4-shims.min.css' type='text/css'
-	media='all' /> -->
 <link rel="stylesheet" id="elementor-post-2629-css"
 	href="css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css"
 	type="text/css" media="all">
@@ -166,14 +122,6 @@
 	<img height="1" width="1" style="display: none"
 		src="https://www.facebook.com/tr?id=2392661914286184&ev=PageView&noscript=1" />
 </noscript>
-<!-- <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-49089556-4', 'auto', {'useAmpClientId': true});
-  ga('require', 'displayfeatures');
-  ga('set', 'forceSSL', true);
-  ga('send', 'pageview');</script> -->
 </head>
 <body
 	class="page-template-default page page-id-2878 wp-custom-logo layout-sidebar-none intro-on layout-responsive header-style1 elementor-default elementor-page elementor-page-2878">
@@ -208,8 +156,7 @@
 												data-element_type="text-editor.default">
 												<div class="elementor-widget-container">
 													<div class="elementor-text-editor elementor-clearfix">
-														<!-- <p>Kustura Technologies is Here For You</p> -->
-													</div>
+														</div>
 												</div>
 											</div>
 											<div data-id="463e0fe"
@@ -250,15 +197,6 @@
 																	class="elementor-field elementor-size-sm  elementor-field-textual"
 																	placeholder="John Doe">
 															</div>
-															<!-- <div
-																class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
-																<label for="form-field-name"
-																	class="elementor-field-label">Last Name</label><input
-																	size="1" type="text" name="form_fields[lname]"
-																	id="form-field-name"
-																	class="elementor-field elementor-size-sm  elementor-field-textual"
-																	placeholder="Doe">
-															</div> -->
 															<div
 																class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
 																<label for="form-field-email"
@@ -565,12 +503,6 @@
 			</div>
 		</div>
 	</div>
-	<!-- <link rel='stylesheet' id='elementor-post-2966-css'
-		href='css/autoptimize_single_825b8d4c26ab45a635e9a898a5ffc9ce.css'
-		type='text/css' media='all' /> -->
-	<!-- <link rel='stylesheet' id='google-fonts-2-css'
-		href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.1.1'
-		type='text/css' media='all' /> -->
 	<script type='text/javascript'>var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.kusturaaaa.com\/wp-admin\/admin-ajax.php","nonce":"a38783af47","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};</script>
 	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","urls":{"assets":"https:\/\/www.kusturaaaa.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2878,"title":"[redesign] Contact","excerpt":""}};</script>
 	<script type="text/javascript" defer

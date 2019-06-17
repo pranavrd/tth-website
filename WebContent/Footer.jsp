@@ -22,9 +22,7 @@
 												<img width="300" height="213"
 													src="images/TTH_Logo_2.png"
 													class="attachment-medium size-medium"
-													alt="Jacksonville Chamber Logo"
-													sizes="(max-width: 300px) 100vw, 300px">
-													<!-- srcset="https://www.kustura.com/wp-content/uploads/2019/01/Jax-Chamber-300x213.jpg 300w, https://www.kustura.com/wp-content/uploads/2019/01/Jax-Chamber.jpg 357w" -->
+													alt="TTH Logo">
 											</div>
 										</div>
 									</div>
