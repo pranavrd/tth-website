@@ -154,7 +154,7 @@
 														</ul></li>
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-70"><a
-														href="About.jsp" class="elementor-item has-submenu"
+														href="#" class="elementor-item has-submenu"
 														id="sm-1559707959005678-5" aria-haspopup="true"
 														aria-controls="sm-1559707959005678-6"
 														aria-expanded="false">ABOUT US</a>
@@ -167,15 +167,15 @@
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
 																href="About.jsp" class="elementor-sub-item">About Us</a></li>
 															<li
-																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
+																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1419"><a
 																href="social-responsibility.jsp"
 																class="elementor-sub-item">Social Responsibility</a></li>
 															<li
-																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
+																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1420"><a
 																href="case-studies.jsp" class="elementor-sub-item">Case
 																	Studies</a></li>
 															<li
-																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a
+																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1421"><a
 																href="white-papers.jsp" class="elementor-sub-item">White
 																	Papers</a></li>
 														</ul></li>
@@ -234,7 +234,7 @@
 														</ul></li>
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-70"><a
-														href="About.jsp" class="elementor-item has-submenu">ABOUT US</a>
+														href="#" class="elementor-item has-submenu">ABOUT US</a>
 														<ul class="sub-menu elementor-nav-menu--dropdown"
 															id="sm-15597079590129868-6" role="group"
 															aria-hidden="true"

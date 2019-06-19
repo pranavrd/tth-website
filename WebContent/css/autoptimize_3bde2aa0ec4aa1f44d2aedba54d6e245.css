@@ -33852,13 +33852,13 @@ to {
 	overflow: hidden;
 	border-width: 8px;
 	border-style: dashed dashed solid;
-	border-color: transparent transparent #494c4f
+	border-color: transparent transparent white
 }
 
 .elementor-nav-menu--main .elementor-nav-menu span.scroll-down-arrow {
 	top: 6px;
 	border-style: solid dashed dashed;
-	border-color: #494c4f transparent transparent
+	border-color: white transparent transparent
 }
 
 .elementor-nav-menu--main .elementor-nav-menu--dropdown .sub-arrow i {
@@ -34128,7 +34128,7 @@ to {
 	border: 0 solid;
 	border-radius: 3px;
 	background-color: rgba(0, 0, 0, .05);
-	color: #494c4f
+	color: white;
 }
 
 .elementor-menu-toggle i:before {
@@ -34163,7 +34163,7 @@ to {
 }
 
 .elementor-nav-menu--dropdown a {
-	color: #494c4f;
+	color: white;
 	-webkit-box-pack: justify;
 	-webkit-justify-content: space-between;
 	-ms-flex-pack: justify;
@@ -34527,7 +34527,7 @@ ul.elementor-nav-menu--dropdown a, ul.elementor-nav-menu--dropdown a:focus,
 	display: inline-block;
 	cursor: pointer;
 	vertical-align: middle;
-	color: #494c4f
+	color: white
 }
 
 .elementor-search-form--skin-full_screen .elementor-search-form__toggle i

@@ -126,3 +126,12 @@
 		src="https://www.facebook.com/tr?id=2392661914286184&ev=PageView&noscript=1" />
 </noscript>
 </head>
+
+<script>
+     $(function() {
+        $('#elementor-nav-menu--main li a').click(function() {
+           $('#elementor-nav-menu--main li').removeClass();
+           $($(this).attr('href')).addClass('active');
+        });
+     });
+  </script>

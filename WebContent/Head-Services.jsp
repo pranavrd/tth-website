@@ -11,7 +11,7 @@
 <link rel="shortcut icon" href="images/favicon.png" type="image/png">
 <meta name="description"
 	content="TTH Consulting Services offers IT support options for small businesses, non-profits, and other local organizations.">
-<link rel="canonical" href="http://www.tthconsulting.com/">
+<!-- <link rel="canonical" href="http://www.tthconsulting.com/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title"
@@ -35,7 +35,7 @@
 	title="tthconsulting.com » Feed" href="#">
 <link rel="alternate" type="application/rss+xml"
 	title="tthconsulting.com » Comments Feed"
-	href="#">
+	href="#"> -->
 
 <link rel="stylesheet" id="shuttle-google-fonts-css"
 	href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;subset=latin%2Clatin-ext"
@@ -85,34 +85,23 @@
 <link rel='stylesheet' href='css/formreset.min.css' type='text/css'
 	media='all' />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" id="elementor-post-2629-css"
+<!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+<!-- <link rel="stylesheet" id="elementor-post-2629-css"
 	href="css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css"
-	type="text/css" media="all">
+	type="text/css" media="all"> -->
 <link rel="stylesheet" 
 	href="css/Media.css"
 	type="text/css" media="all">
 <link rel="stylesheet" id="google-fonts-1-css"
 	href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CComfortaa%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCousine%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.1.1"
 	type="text/css" media="all">
-<link rel="https://api.w.org/" href="https://www.kusturaaaa.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD"
-	href="https://www.kusturaaaa.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml"
-	href="https://www.kusturaaaa.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 5.1.1">
-<link rel="shortlink" href="https://www.kusturaaaa.com/">
-<link rel="alternate" type="application/json+oembed"
-	href="https://www.kusturaaaa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kusturaaaa.com%2F">
-<link rel="alternate" type="text/xml+oembed"
-	href="https://www.kusturaaaa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kusturaaaa.com%2F&amp;format=xml">
-<script data-cfasync="false">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+<!-- <script data-cfasync="false">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 		document,'script','https://connect.facebook.net/en_US/fbevents.js');
 		fbq('init', '2392661914286184');
-		fbq('track', 'PageView');</script>
+		fbq('track', 'PageView');</script> -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.kusturaaaa.com/#website","url":"https://www.kusturaaaa.com/","name":"Kusturaaaa.com","potentialAction":{"@type":"SearchAction","target":"https://www.kusturaaaa.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kusturaaaa.com/","sameAs":["https://www.facebook.com/tthconsulting","https://www.linkedin.com/company/kusturaaaa-technologies","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","https://twitter.com/kusturaaaatech"],"@id":"https://www.kusturaaaa.com/#organization","name":"Kusturaaaa Technologies","logo":"https://www.kusturaaaa.com/wp-content/uploads/2018/12/Kusturaaaa_Logo_Transparent.png"}</script>
 <script type="text/javascript">var frontEndAjaxURL = "https://www.kusturaaaa.com/wp-admin/admin-ajax.php";</script>
