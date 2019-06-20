@@ -307,8 +307,8 @@
 			</div>
 		</div>
 	</div>
-	<script type='text/javascript'>var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.kusturaaaa.com\/wp-admin\/admin-ajax.php","nonce":"93484277ec","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};</script>
-	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","urls":{"assets":"https:\/\/www.kusturaaaa.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":1353,"title":"Privacy Policy","excerpt":""}};</script>
+	<script type='text/javascript'>var ElementorProFrontendConfig = {"nonce":"a38783af47"};</script>
+	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2878,"title":"[redesign] Contact","excerpt":""}};</script>
 	<script type="text/javascript" defer
 		src="js/autoptimize_e9363874dcc8bf9aeb5d72aae5712160.js"></script>
 </body>

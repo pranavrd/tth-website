@@ -484,39 +484,8 @@
 	</div>
 	</article>
 	<%@include file="Footer.jsp"%>
-	<script type="text/javascript">
-		var elementorFrontendConfig = {
-			"environmentMode" : {
-				"edit" : false,
-				"wpPreview" : false
-			},
-			"is_rtl" : "",
-			"breakpoints" : {
-				"xs" : 0,
-				"sm" : 480,
-				"md" : 768,
-				"lg" : 1025,
-				"xl" : 1440,
-				"xxl" : 1600
-			},
-			"version" : "2.4.7",
-			"urls" : {
-				"assets" : "https:\/\/www.kustura.com\/wp-content\/plugins\/elementor\/assets\/"
-			},
-			"settings" : {
-				"page" : [],
-				"general" : {
-					"elementor_global_image_lightbox" : "yes",
-					"elementor_enable_lightbox_in_editor" : "yes"
-				}
-			},
-			"post" : {
-				"id" : 53,
-				"title" : "ABOUT US",
-				"excerpt" : ""
-			}
-		};
-	</script>
+	<script type='text/javascript'>var ElementorProFrontendConfig = {"nonce":"a38783af47"};</script>
+	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2878,"title":"[redesign] Contact","excerpt":""}};</script>
 	<script type="text/javascript" defer=""
 		src="js/autoptimize_e9363874dcc8bf9aeb5d72aae5712160.js"></script>
 </body>
