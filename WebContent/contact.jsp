@@ -267,7 +267,7 @@
 												data-element_type="text-editor.default">
 												<div class="elementor-widget-container">
 													<div class="elementor-text-editor elementor-clearfix">
-														<p>Unit no 202, Akshar Bluechip IT Park,<br></br> Midc thane Belapur road, Turbhe, Navi Mumbai</p>
+														<p>Unit no 202, Akshar Bluechip IT Park,<br></br> MIDC Thane Belapur road, Turbhe, Navi Mumbai</p>
 													</div>
 												</div>
 											</div>
@@ -292,7 +292,7 @@
 												<div class="elementor-widget-container">
 													<div class="elementor-text-editor elementor-clearfix">
 														<p>3A, Mettukazhani Street 
-                                                           <br>Adambakkam ,Chennai.</p>
+                                                           <br>Adambakkam ,Chennai - 600088</p>
                                                         <p>TTH Development Centre 
 														   <br>NMAMIT, Nitte - 574110.</p>
 													</div>

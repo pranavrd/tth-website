@@ -189,7 +189,7 @@
 										data-element_type="heading.default">
 										<div class="elementor-widget-container">
 											<h3 class="elementor-heading-title elementor-size-default">
-												Unit 202, Akshar Bluechip IT Park, Thane Belapur Road, Vashi
+												Unit 202, Akshar Bluechip IT Park,MIDC Thane Belapur Road, Vashi
 												Turbhe</h3>												
 										</div>
 									</div>
