@@ -1502,19 +1502,19 @@ div.pp_default .pp_top, div.pp_default .pp_top .pp_middle, div.pp_default .pp_to
 
 div.pp_default .pp_top .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		-78px -93px no-repeat
 }
 
 div.pp_default .pp_top .pp_middle {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite_x.png)
 		top left repeat-x
 }
 
 div.pp_default .pp_top .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		-112px -93px no-repeat
 }
 
@@ -1524,14 +1524,14 @@ div.pp_default .pp_content .ppt {
 
 div.pp_default .pp_content_container .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite_y.png)
 		-7px 0 repeat-y;
 	padding-left: 13px
 }
 
 div.pp_default .pp_content_container .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite_y.png)
 		top right repeat-y;
 	padding-right: 13px
 }
@@ -1542,21 +1542,21 @@ div.pp_default .pp_content {
 
 div.pp_default .pp_next:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite_next.png)
 		center right no-repeat;
 	cursor: pointer
 }
 
 div.pp_default .pp_previous:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite_prev.png)
 		center left no-repeat;
 	cursor: pointer
 }
 
 div.pp_default .pp_expand {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		0 -29px no-repeat;
 	cursor: pointer;
 	width: 28px;
@@ -1565,14 +1565,14 @@ div.pp_default .pp_expand {
 
 div.pp_default .pp_expand:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		0 -56px no-repeat;
 	cursor: pointer
 }
 
 div.pp_default .pp_contract {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		0 -84px no-repeat;
 	cursor: pointer;
 	width: 28px;
@@ -1581,7 +1581,7 @@ div.pp_default .pp_contract {
 
 div.pp_default .pp_contract:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		0 -113px no-repeat;
 	cursor: pointer
 }
@@ -1590,7 +1590,7 @@ div.pp_default .pp_close {
 	width: 30px;
 	height: 30px;
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		2px 1px no-repeat;
 	cursor: pointer
 }
@@ -1601,7 +1601,7 @@ div.pp_default #pp_full_res .pp_inline {
 
 div.pp_default .pp_gallery ul li a {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/default_thumb.png)
 		center center #f8f8f8;
 	border: 1px solid #aaa
 }
@@ -1623,7 +1623,7 @@ div.pp_default .pp_gallery a.pp_arrow_previous, div.pp_default .pp_gallery a.pp_
 
 div.pp_default .pp_nav .pp_play, div.pp_default .pp_nav .pp_pause {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		-51px 1px no-repeat;
 	height: 30px;
 	width: 30px
@@ -1639,7 +1639,7 @@ div.pp_default .pp_details {
 
 div.pp_default a.pp_arrow_previous, div.pp_default a.pp_arrow_next {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		-31px -3px no-repeat;
 	height: 20px;
 	margin: 4px 0 0;
@@ -1690,31 +1690,31 @@ div.pp_default .pp_description {
 
 div.pp_default .pp_bottom .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		-78px -127px no-repeat
 }
 
 div.pp_default .pp_bottom .pp_middle {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite_x.png)
 		bottom left repeat-x
 }
 
 div.pp_default .pp_bottom .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/sprite.png)
 		-112px -127px no-repeat
 }
 
 div.pp_default .pp_loaderIcon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/default/loader.gif)
 		center center no-repeat
 }
 
 div.light_rounded .pp_top .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-88px -53px no-repeat
 }
 
@@ -1724,7 +1724,7 @@ div.light_rounded .pp_top .pp_middle {
 
 div.light_rounded .pp_top .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-110px -53px no-repeat
 }
 
@@ -1743,42 +1743,42 @@ div.light_rounded .pp_content {
 
 div.light_rounded .pp_next:hover {
 	background:
-		urlimages/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/btnNext.png)
 		center right no-repeat;
 	cursor: pointer
 }
 
 div.light_rounded .pp_previous:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/btnPrevious.png)
 		center left no-repeat;
 	cursor: pointer
 }
 
 div.light_rounded .pp_expand {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-31px -26px no-repeat;
 	cursor: pointer
 }
 
 div.light_rounded .pp_expand:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-31px -47px no-repeat;
 	cursor: pointer
 }
 
 div.light_rounded .pp_contract {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		0 -26px no-repeat;
 	cursor: pointer
 }
 
 div.light_rounded .pp_contract:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		0 -47px no-repeat;
 	cursor: pointer
 }
@@ -1787,7 +1787,7 @@ div.light_rounded .pp_close {
 	width: 75px;
 	height: 22px;
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-1px -1px no-repeat;
 	cursor: pointer
 }
@@ -1811,7 +1811,7 @@ div.light_rounded .pp_gallery a.pp_arrow_previous, div.light_rounded .pp_gallery
 
 div.light_rounded .pp_nav .pp_play {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-1px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -1819,7 +1819,7 @@ div.light_rounded .pp_nav .pp_play {
 
 div.light_rounded .pp_nav .pp_pause {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-24px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -1827,7 +1827,7 @@ div.light_rounded .pp_nav .pp_pause {
 
 div.light_rounded .pp_arrow_previous {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		0 -71px no-repeat
 }
 
@@ -1838,7 +1838,7 @@ div.light_rounded .pp_arrow_previous.disabled {
 
 div.light_rounded .pp_arrow_next {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-22px -71px no-repeat
 }
 
@@ -1849,7 +1849,7 @@ div.light_rounded .pp_arrow_next.disabled {
 
 div.light_rounded .pp_bottom .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-88px -80px no-repeat
 }
 
@@ -1859,90 +1859,90 @@ div.light_rounded .pp_bottom .pp_middle {
 
 div.light_rounded .pp_bottom .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/sprite.png)
 		-110px -80px no-repeat
 }
 
 div.light_rounded .pp_loaderIcon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/loader.gif)
 		center center no-repeat
 }
 
 div.dark_rounded .pp_top .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-88px -53px no-repeat
 }
 
 div.dark_rounded .pp_top .pp_middle {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/contentPattern.png)
 		top left repeat
 }
 
 div.dark_rounded .pp_top .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-110px -53px no-repeat
 }
 
 div.dark_rounded .pp_content_container .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/contentPattern.png)
 		top left repeat-y
 }
 
 div.dark_rounded .pp_content_container .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/contentPattern.png)
 		top right repeat-y
 }
 
 div.dark_rounded .pp_content {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/contentPattern.png)
 		top left repeat
 }
 
 div.dark_rounded .pp_next:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/btnNext.png)
 		center right no-repeat;
 	cursor: pointer
 }
 
 div.dark_rounded .pp_previous:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/btnPrevious.png)
 		center left no-repeat;
 	cursor: pointer
 }
 
 div.dark_rounded .pp_expand {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-31px -26px no-repeat;
 	cursor: pointer
 }
 
 div.dark_rounded .pp_expand:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-31px -47px no-repeat;
 	cursor: pointer
 }
 
 div.dark_rounded .pp_contract {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		0 -26px no-repeat;
 	cursor: pointer
 }
 
 div.dark_rounded .pp_contract:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		0 -47px no-repeat;
 	cursor: pointer
 }
@@ -1951,7 +1951,7 @@ div.dark_rounded .pp_close {
 	width: 75px;
 	height: 22px;
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-1px -1px no-repeat;
 	cursor: pointer
 }
@@ -1983,7 +1983,7 @@ div.dark_rounded .pp_gallery a.pp_arrow_previous, div.dark_rounded .pp_gallery a
 
 div.dark_rounded .pp_nav .pp_play {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-1px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -1991,7 +1991,7 @@ div.dark_rounded .pp_nav .pp_play {
 
 div.dark_rounded .pp_nav .pp_pause {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-24px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -1999,7 +1999,7 @@ div.dark_rounded .pp_nav .pp_pause {
 
 div.dark_rounded .pp_arrow_previous {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		0 -71px no-repeat
 }
 
@@ -2010,7 +2010,7 @@ div.dark_rounded .pp_arrow_previous.disabled {
 
 div.dark_rounded .pp_arrow_next {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-22px -71px no-repeat
 }
 
@@ -2021,25 +2021,25 @@ div.dark_rounded .pp_arrow_next.disabled {
 
 div.dark_rounded .pp_bottom .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-88px -80px no-repeat
 }
 
 div.dark_rounded .pp_bottom .pp_middle {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/contentPattern.png)
 		top left repeat
 }
 
 div.dark_rounded .pp_bottom .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/sprite.png)
 		-110px -80px no-repeat
 }
 
 div.dark_rounded .pp_loaderIcon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_rounded/loader.gif)
 		center center no-repeat
 }
 
@@ -2058,34 +2058,34 @@ div.dark_square .pp_description {
 
 div.dark_square .pp_loaderIcon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/loader.gif)
 		center center no-repeat
 }
 
 div.dark_square .pp_expand {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		-31px -26px no-repeat;
 	cursor: pointer
 }
 
 div.dark_square .pp_expand:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		-31px -47px no-repeat;
 	cursor: pointer
 }
 
 div.dark_square .pp_contract {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		0 -26px no-repeat;
 	cursor: pointer
 }
 
 div.dark_square .pp_contract:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		0 -47px no-repeat;
 	cursor: pointer
 }
@@ -2094,7 +2094,7 @@ div.dark_square .pp_close {
 	width: 75px;
 	height: 22px;
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		-1px -1px no-repeat;
 	cursor: pointer
 }
@@ -2122,7 +2122,7 @@ div.dark_square .pp_nav {
 
 div.dark_square .pp_nav .pp_play {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		-1px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -2130,7 +2130,7 @@ div.dark_square .pp_nav .pp_play {
 
 div.dark_square .pp_nav .pp_pause {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		-24px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -2138,7 +2138,7 @@ div.dark_square .pp_nav .pp_pause {
 
 div.dark_square .pp_arrow_previous {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		0 -71px no-repeat
 }
 
@@ -2149,7 +2149,7 @@ div.dark_square .pp_arrow_previous.disabled {
 
 div.dark_square .pp_arrow_next {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/sprite.png)
 		-22px -71px no-repeat
 }
 
@@ -2160,14 +2160,14 @@ div.dark_square .pp_arrow_next.disabled {
 
 div.dark_square .pp_next:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/btnNext.png)
 		center right no-repeat;
 	cursor: pointer
 }
 
 div.dark_square .pp_previous:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/dark_square/btnPrevious.png)
 		center left no-repeat;
 	cursor: pointer
 }
@@ -2183,28 +2183,28 @@ div.light_square .pp_content .ppt {
 
 div.light_square .pp_expand {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		-31px -26px no-repeat;
 	cursor: pointer
 }
 
 div.light_square .pp_expand:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		-31px -47px no-repeat;
 	cursor: pointer
 }
 
 div.light_square .pp_contract {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		0 -26px no-repeat;
 	cursor: pointer
 }
 
 div.light_square .pp_contract:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		0 -47px no-repeat;
 	cursor: pointer
 }
@@ -2213,7 +2213,7 @@ div.light_square .pp_close {
 	width: 75px;
 	height: 22px;
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		-1px -1px no-repeat;
 	cursor: pointer
 }
@@ -2237,7 +2237,7 @@ div.light_square .pp_gallery a.pp_arrow_previous, div.light_square .pp_gallery a
 
 div.light_square .pp_nav .pp_play {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		-1px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -2245,7 +2245,7 @@ div.light_square .pp_nav .pp_play {
 
 div.light_square .pp_nav .pp_pause {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		-24px -100px no-repeat;
 	height: 15px;
 	width: 14px
@@ -2253,7 +2253,7 @@ div.light_square .pp_nav .pp_pause {
 
 div.light_square .pp_arrow_previous {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		0 -71px no-repeat
 }
 
@@ -2264,7 +2264,7 @@ div.light_square .pp_arrow_previous.disabled {
 
 div.light_square .pp_arrow_next {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/sprite.png)
 		-22px -71px no-repeat
 }
 
@@ -2275,39 +2275,39 @@ div.light_square .pp_arrow_next.disabled {
 
 div.light_square .pp_next:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/btnNext.png)
 		center right no-repeat;
 	cursor: pointer
 }
 
 div.light_square .pp_previous:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_square/btnPrevious.png)
 		center left no-repeat;
 	cursor: pointer
 }
 
 div.light_square .pp_loaderIcon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/loader.gif)
 		center center no-repeat
 }
 
 div.facebook .pp_top .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-88px -53px no-repeat
 }
 
 div.facebook .pp_top .pp_middle {
 	background:
-		url(//www.images/mkv-bridge.jpg.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/contentPatternTop.png)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/contentPatternTop.png)
 		top left repeat-x
 }
 
 div.facebook .pp_top .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-110px -53px no-repeat
 }
 
@@ -2317,13 +2317,13 @@ div.facebook .pp_content .ppt {
 
 div.facebook .pp_content_container .pp_left {
 	background:
-		url(//www.images/mkv-bridge.jpg.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/contentPatternLeft.png)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/contentPatternLeft.png)
 		top left repeat-y
 }
 
 div.facebook .pp_content_container .pp_right {
 	background:
-		url(//www.images/mkv-bridge.jpg.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/contentPatternRight.png)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/contentPatternRight.png)
 		top right repeat-y
 }
 
@@ -2333,28 +2333,28 @@ div.facebook .pp_content {
 
 div.facebook .pp_expand {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-31px -26px no-repeat;
 	cursor: pointer
 }
 
 div.facebook .pp_expand:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-31px -47px no-repeat;
 	cursor: pointer
 }
 
 div.facebook .pp_contract {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		0 -26px no-repeat;
 	cursor: pointer
 }
 
 div.facebook .pp_contract:hover {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		0 -47px no-repeat;
 	cursor: pointer
 }
@@ -2363,7 +2363,7 @@ div.facebook .pp_close {
 	width: 22px;
 	height: 22px;
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-1px -1px no-repeat;
 	cursor: pointer
 }
@@ -2382,13 +2382,13 @@ div.facebook #pp_full_res .pp_inline {
 
 div.facebook .pp_loaderIcon {
 	background:
-		url(//www.images/mkv-bridge.jpg.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/loader.gif)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/loader.gif)
 		center center no-repeat
 }
 
 div.facebook .pp_arrow_previous {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		0 -71px no-repeat;
 	height: 22px;
 	margin-top: 0;
@@ -2402,7 +2402,7 @@ div.facebook .pp_arrow_previous.disabled {
 
 div.facebook .pp_arrow_next {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-32px -71px no-repeat;
 	height: 22px;
 	margin-top: 0;
@@ -2425,7 +2425,7 @@ div.facebook .pp_nav p {
 
 div.facebook .pp_nav .pp_play {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-1px -123px no-repeat;
 	height: 22px;
 	width: 22px
@@ -2433,7 +2433,7 @@ div.facebook .pp_nav .pp_play {
 
 div.facebook .pp_nav .pp_pause {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-32px -123px no-repeat;
 	height: 22px;
 	width: 22px
@@ -2441,33 +2441,33 @@ div.facebook .pp_nav .pp_pause {
 
 div.facebook .pp_next:hover {
 	background:
-		url(//www.images/mkv-bridge.jpg.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/btnNext.png)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/btnNext.png)
 		center right no-repeat;
 	cursor: pointer
 }
 
 div.facebook .pp_previous:hover {
 	background:
-		url(//www.images/mkv-bridge.jpg.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/btnPrevious.png)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/btnPrevious.png)
 		center left no-repeat;
 	cursor: pointer
 }
 
 div.facebook .pp_bottom .pp_left {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-88px -80px no-repeat
 }
 
 div.facebook .pp_bottom .pp_middle {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/contentPatternBottom.png)
 		top left repeat-x
 }
 
 div.facebook .pp_bottom .pp_right {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/sprite.png)
 		-110px -80px no-repeat
 }
 
@@ -2666,7 +2666,7 @@ a.pp_arrow_previous, a.pp_arrow_next {
 
 .pp_gallery li.default a {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/facebook/default_thumbnail.gif)
 		0 0 no-repeat;
 	display: block;
 	height: 33px;
@@ -2683,7 +2683,7 @@ a.pp_arrow_previous, a.pp_arrow_next {
 
 a.pp_next {
 	background:
-		urlimages/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/btnNext.png)
 		10000px 10000px no-repeat;
 	display: block;
 	float: right;
@@ -2694,7 +2694,7 @@ a.pp_next {
 
 a.pp_previous {
 	background:
-		urlimages/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/lib/extentions/prettyPhoto/css/../images/prettyPhoto/light_rounded/btnNext.png)
 		10000px 10000px no-repeat;
 	display: block;
 	float: left;
@@ -6408,17 +6408,17 @@ button.close {
 @font-face {
 	font-family: 'FontAwesome';
 	src:
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css);
+		url(css/font-awesome.min.css);
 	src:
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format('embedded-opentype'),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format('woff2'),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format('woff'),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format('truetype'),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format('svg');
 	font-weight: normal;
 	font-style: normal
@@ -10854,56 +10854,56 @@ ul.iconfont i.fa-none {
 
 .notification.error .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/X.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
 
 .notification.stop .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/No.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
 
 .notification.download .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/World-download.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
 
 .notification.success .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/Checkmark.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
 
 .notification.info .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/Info.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
 
 .notification.question .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/Questions.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
 
 .notification.warning .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/Warning.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
 
 .notification.message .icon {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/icons/color/Chat.png)
 		no-repeat 15px 18px;
 	background-size: 25px
 }
@@ -11020,13 +11020,13 @@ ul.iconfont i.fa-none {
 
 .pricing-table li.tick {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/shortcodes/icon-tick.png)
 		25px center no-repeat
 }
 
 .pricing-table li.cross {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/styles/../images/shortcodes/icon-cross.png)
 		25px center no-repeat
 }
 
@@ -15340,7 +15340,7 @@ a.themebutton4 {
 
 #sidebar .shuttle_widget_twitterfeed .tweet-content {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/images/widgets/twitter-bird-light-bgs.png)
 		2px 5px no-repeat;
 	background-size: 40px
 }
@@ -15352,7 +15352,7 @@ a.themebutton4 {
 
 #footer .shuttle_widget_twitterfeed .tweet-content {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/images/widgets/twitter-bird-light-bgs.png)
 		-8px -5px no-repeat;
 	background-size: 40px
 }
@@ -15373,7 +15373,7 @@ a.themebutton4 {
 
 #sub-footer .shuttle_widget_twitterfeed .tweet-content {
 	background:
-		url(images/mkv-bridge.jpg)
+		url(//www.kustura.com/wp-content/themes/shuttle/images/widgets/twitter-bird-dark-bgs.png)
 		right -5px no-repeat;
 	background-size: 40px
 }
@@ -19205,17 +19205,17 @@ body .fa-lg {
 @font-face {
 	font-family: eicons;
 	src:
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css);
+		url(css/font-awesome.min.css);
 	src:
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format("embedded-opentype"),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format("woff2"),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format("woff"),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format("truetype"),
-		url(https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css)
+		url(css/font-awesome.min.css)
 		format("svg");
 	font-weight: 400;
 	font-style: normal

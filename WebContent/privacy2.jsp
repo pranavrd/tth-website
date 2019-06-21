@@ -263,50 +263,6 @@
 		</div>
 	</article>
 	<%@include file="Footer.jsp" %>
-	<div data-elementor-type="popup" data-elementor-id="2926"
-		class="elementor elementor-2926 elementor-location-popup"
-		data-elementor-settings="{&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
-		<div class="elementor-inner">
-			<div class="elementor-section-wrap">
-				<section data-id="2c93370"
-					class="elementor-element elementor-element-2c93370 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-					data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
-					data-element_type="section">
-					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-row">
-							<div data-id="ff96e69"
-								class="elementor-element elementor-element-ff96e69 elementor-column elementor-col-100 elementor-top-column"
-								data-element_type="column">
-								<div class="elementor-column-wrap  elementor-element-populated">
-									<div class="elementor-widget-wrap">
-										<div data-id="97ee0a8"
-											class="elementor-element elementor-element-97ee0a8 elementor-widget elementor-widget-heading"
-											data-element_type="heading.default">
-											<div class="elementor-widget-container">
-												<h2 class="elementor-heading-title elementor-size-default">Thank
-													you for subscribing!</h2>
-											</div>
-										</div>
-										<div data-id="48a2efe"
-											class="elementor-element elementor-element-48a2efe elementor-widget elementor-widget-text-editor"
-											data-element_type="text-editor.default">
-											<div class="elementor-widget-container">
-												<div class="elementor-text-editor elementor-clearfix">
-													<p style="text-align: left;">Make sure to check your
-														email for monthly newsletters, discount codes &amp;
-														savings</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-			</div>
-		</div>
-	</div>
 	<script type='text/javascript'>var ElementorProFrontendConfig = {"nonce":"a38783af47"};</script>
 	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2878,"title":"[redesign] Contact","excerpt":""}};</script>
 	<script type="text/javascript" defer

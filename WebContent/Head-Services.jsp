@@ -84,6 +84,8 @@
 	media='all' />
 <link rel='stylesheet' href='css/formreset.min.css' type='text/css'
 	media='all' />
+<link rel='stylesheet' href='css/font-awesome.css' type='text/css'
+    media='all' />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
 <!-- <link rel="stylesheet" id="elementor-post-2629-css"
@@ -112,10 +114,5 @@
 	type="text/javascript" defer=""></script>
 <script type="text/javascript"
 	src="js/jquery.js"></script>
-<script type="text/javascript">var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"#","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1,"ga_with_gtag":0}};</script>
-
-<noscript data-cfasync="false">
-	<img height="1" width="1" style="display: none"
-		src="https://www.facebook.com/tr?id=2392661914286184&ev=PageView&noscript=1" />
-</noscript>
+<!-- <script type="text/javascript">var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"#","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1,"ga_with_gtag":0}};</script> -->
 </head>

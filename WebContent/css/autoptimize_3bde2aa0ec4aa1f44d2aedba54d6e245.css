@@ -5635,10 +5635,10 @@ button.close {
 }
 
 @media ( max-width :767px) {
-	/* body {
+	body {
 		padding-left: 20px;
 		padding-right: 20px;
-	} */
+	}
 	.navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
 		margin-left: -20px;
 		margin-right: -20px;
@@ -6408,17 +6408,17 @@ button.close {
 @font-face {
 	font-family: 'FontAwesome';
 	src:
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/../fonts/fontawesome-webfont.eot?v=4.7.0);
+		url(css/font-awesome.min.css);
 	src:
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0)
+		url(css/font-awesome.min.css)
 		format('embedded-opentype'),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/../fonts/fontawesome-webfont.woff2?v=4.7.0)
+		url(css/font-awesome.min.css)
 		format('woff2'),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/../fonts/fontawesome-webfont.woff?v=4.7.0)
+		url(css/font-awesome.min.css)
 		format('woff'),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/../fonts/fontawesome-webfont.ttf?v=4.7.0)
+		url(css/font-awesome.min.css)
 		format('truetype'),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular)
+		url(css/font-awesome.min.css)
 		format('svg');
 	font-weight: normal;
 	font-style: normal
@@ -19205,17 +19205,17 @@ body .fa-lg {
 @font-face {
 	font-family: eicons;
 	src:
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.eot?4.2.0);
+		url(css/font-awesome.min.css);
 	src:
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.eot?4.2.0#iefix)
+		url(css/font-awesome.min.css)
 		format("embedded-opentype"),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff2?4.2.0)
+		url(css/font-awesome.min.css)
 		format("woff2"),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff?4.2.0)
+		url(css/font-awesome.min.css)
 		format("woff"),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.ttf?4.2.0)
+		url(css/font-awesome.min.css)
 		format("truetype"),
-		url(//www.kustura.com/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.svg?4.2.0#eicon)
+		url(css/font-awesome.min.css)
 		format("svg");
 	font-weight: 400;
 	font-style: normal
@@ -32088,7 +32088,7 @@ body.rtl.woocommerce #content div.product .elementor-widget-woocommerce-product-
 }
 
 .elementor-blockquote--skin-quotation .elementor-blockquote:before {
-	content: "â€œ";
+	content: "“";
 	font-size: 100px;
 	color: #e6e9ec;
 	font-family: Times New Roman, Times, serif;
@@ -34069,17 +34069,17 @@ to {
 
 .elementor-nav-menu--indicator-chevron .elementor-nav-menu .sub-arrow i:before
 	{
-	content: "ï�¸"
+	content: ""
 }
 
 .elementor-nav-menu--indicator-angle .elementor-nav-menu .sub-arrow i:before
 	{
-	content: "ï„‡"
+	content: ""
 }
 
 .elementor-nav-menu--indicator-classic .elementor-nav-menu .sub-arrow i:before
 	{
-	content: "ïƒ—"
+	content: ""
 }
 
 .elementor-nav-menu--indicator-plus .elementor-nav-menu .sub-arrow i:before

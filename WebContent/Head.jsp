@@ -74,11 +74,11 @@
 <link rel='stylesheet' href='css/v4-shims.min.css' type='text/css'
 	media='all' />
 <link
-	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
+	href="css/all.min.css"
 	rel="stylesheet" type="text/css" media="all">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet"
-	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel='stylesheet' href='css/font-awesome.css' type='text/css'
+    media='all' />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" id="elementor-post-2629-css"
 	href="css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css"
 	type="text/css" media="all">
@@ -94,19 +94,6 @@
 <link rel='stylesheet' id='google-fonts-2-css'
 		href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.1.1'
 		type='text/css' media='all' />
-
-
-<meta name="generator" content="WordPress 5.1.1">
-
-
-
-<script data-cfasync="false">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-		document,'script','https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '2392661914286184');
-		fbq('track', 'PageView');</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"#","url":"#","name":"#","potentialAction":{"@type":"SearchAction","target":"#","query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"#","sameAs":["https://www.facebook.com/tthconsulting","#","https://www.youtube.com/channel/UCJCRYQBgEB86L5QlVbkJC8A","#"],"@id":"#","name":"#","logo":"#"}</script>
 <script type="text/javascript">var frontEndAjaxURL = "#";</script>
@@ -116,8 +103,4 @@
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript">var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"#","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1,"ga_with_gtag":0}};</script>
 
-<noscript data-cfasync="false">
-	<img height="1" width="1" style="display: none"
-		src="https://www.facebook.com/tr?id=2392661914286184&ev=PageView&noscript=1" />
-</noscript>
 </head>

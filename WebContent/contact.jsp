@@ -71,7 +71,7 @@
 	href='css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css'
 	type='text/css' media='all' />
 <link
-	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
+	href="css/all.min.css"
 	rel="stylesheet" type="text/css" media="all">
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
