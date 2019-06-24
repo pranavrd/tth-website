@@ -60,7 +60,7 @@
 										<div class="elementor-widget-container">
 											<ul class="elementor-icon-list-items">
 												<li class="elementor-icon-list-item"><a
-													href="privacy2.jsp"> <span
+													href="privacy-policy.jsp"> <span
 														class="elementor-icon-list-text" style="font-color: white;">Our Privacy Policy</span>
 												</a></li>
 											</ul>

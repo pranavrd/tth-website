@@ -1,10 +1,10 @@
 
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
-<%@include file="Head.jsp"%>
+<%@include file="Head.jsp" %>
 <body
 	class="page-template-default page page-id-1353 wp-custom-logo layout-sidebar-none intro-on layout-responsive header-style1 elementor-default elementor-page elementor-page-1353">
-	<%@include file="Header.jsp"%>
+	<%@include file="Header.jsp" %>
 	<article id="post-1353"
 		class="post-1353 page type-page status-publish hentry">
 		<div data-elementor-type="post" data-elementor-id="1353"
@@ -49,8 +49,7 @@
 																		data-element_type="heading.default">
 																		<div class="elementor-widget-container">
 																			<h2
-																				class="elementor-heading-title elementor-size-default">Privacy
-																				Policy</h2>
+																				class="elementor-heading-title elementor-size-default">Privacy Policy</h2>
 																		</div>
 																	</div>
 																	<div data-id="d8aa58"
@@ -68,7 +67,8 @@
 																		<div class="elementor-widget-container">
 																			<h2
 																				class="elementor-heading-title elementor-size-default">
-																				TTH Consulting Services</h2>
+																				TTH Consulting Services
+																			</h2>
 																		</div>
 																	</div>
 																	<div data-id="238a23d9"
@@ -77,10 +77,9 @@
 																		<div class="elementor-widget-container">
 																			<div class="elementor-text-editor elementor-clearfix">
 																				<h2 style="text-align: center;">
-																					<span style="color: #296484;">How do
-																							we acquire data?</span>
+																					<span style="text-decoration: underline;">How do we collect said data?</span>
 																				</h2>
-																				<p style="text-align: center; color: #737777;">
+																				<p style="text-align: center;">
 																					TTH Consulting Services uses Google Analytics to track
 																					important data. We also keep any contact
 																					information submitted through our contact forms
@@ -88,10 +87,10 @@
 																					Consulting. We will <b>NEVER</b> sell your personal
 																					data.
 																				</p>
-																				<p style="text-align: center; color: #737777;">
-																					If at any time you wish to be removed from
+																				<p style="text-align: center;">
+																					<b>If at any time you wish to be removed from
 																						any of our email marketing or direct marketing
-																						campaigns, simply email us at info@tth.com.
+																						campaigns, simply email us at info@tthconsulting.com </b>
 																				</p>
 																			</div>
 																		</div>
@@ -111,7 +110,7 @@
 					<section data-id="27227e4a"
 						class="elementor-element elementor-element-27227e4a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 						data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}"
-						data-element_type="section" >
+						data-element_type="section">
 						<div class="elementor-background-overlay"></div>
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -136,7 +135,7 @@
 					</section>
 					<section data-id="aa24a29"
 						class="elementor-element elementor-element-aa24a29 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-						data-element_type="section" style="margin-left: 200px; margin-right: 200px;">
+						data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 								<div data-id="7f2ddb8"
@@ -156,81 +155,75 @@
 															the way your information is collected and used. To make
 															this notice easy to find, we make it available on our
 															home page and at every point where personally
-															identifiable information may be requested.<br></p>
-														<h3 style="color: #296484;">The Information We Collect<br></h3>
+															identifiable information may be requested.</p>
+														<p></p>
+														<h2>The Information We Collect</h2>
 														<p></p>
 														<p>This notice applies to all information collected or
 															submitted on the website. On some pages, you can make
 															requests, and register to receive materials. The types of
-															personal information collected at these pages are:<br></p>
-														<div
-															style="border: 1px solid #f5f5f5; box-shadow: none; min-height: 20px; */ padding: 19px; margin-bottom: 20px; background-color: #f5f5f5; border: 1px solid #e3e3e3; border-radius: 4px; -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);">
-															Name<br> Address<br> Email address<br>
-															Phone number
-														</div>
-														<h3 style="color: #296484;">The Way We Use Information</h3>
+															personal information collected at these pages are:</p>
+															<ul>
+																<li>Name</li>
+																<li>Address</li>
+																<li>Email Address</li>
+																<li>Phone number</li>
+															</ul>
+														
 														<p></p>
-														<p>
-															We use the information you provide about yourself when
+														<p></p>
+														<h2>The Way We Use Information</h2>
+														<p></p>
+														<p>We use the information you provide about yourself when
 															placing an order only to complete that request for
 															information. We do not share this information with
 															outside parties except to the extent necessary to
-															complete that process.<br />
-														</p>
-														<p>
-															We use return email addresses to answer the email we
+															complete that process.</p>
+														<p></p>
+														<p>We use return email addresses to answer the email we
 															receive. Such addresses are not used for any other
-															purpose and are not shared with outside parties.<br />
-														</p>
-														<p>
-															You can register with our website if you would like to
+															purpose and are not shared with outside parties.</p>
+														<p></p>
+														<p>You can register with our website if you would like to
 															receive our newsletter as well as updates on our new
 															products and services. Information you submit on our
 															website will not be used for this purpose unless you fill
-															out the applicable registration form.<br>
-														</p>
-														<p>
-															We use non-identifying and aggregate information to
+															out the applicable registration form.</p>
+														<p></p>
+														<p>We use non-identifying and aggregate information to
 															better design our website but we would not disclose
 															anything that could be used to identify those
-															individuals. <br>
-														</p>
-														<p>
-															Finally, we never use or share the personally
+															individuals.</p>
+														<p></p>
+														<p>Finally, we never use or share the personally
 															identifiable information provided to us online in ways
 															unrelated to the ones described above without also
 															providing you an opportunity to opt-out or otherwise
-															prohibit such unrelated uses.<br>
-														</p>
-														<h3 style="color: #296484;">
-															Our Commitment To Data Security<br>
-														</h3>
-														<p>
-															To prevent unauthorized access, maintain data accuracy,
+															prohibit such unrelated uses.</p>
+														<p></p>
+														<h2>Our Commitment To Data Security</h2>
+														<p></p>
+														<p>To prevent unauthorized access, maintain data accuracy,
 															and ensure the correct use of information, we have put in
 															place appropriate physical, electronic, and managerial
 															procedures to safeguard and secure the information we
-															collect online.<br />
-														</p>
-														<h3 style="color: #296484;">
-															How You Can Access Or Correct Your Information<br>
-														</h3>
-														<p>
-															You can inquire about all your personally identifiable
+															collect online.</p>
+														<p></p>
+														<h2>How You Can Access Or Correct Your Information</h2>
+														<p></p>
+														<p>You can inquire about all your personally identifiable
 															information that we collect online and maintain by
 															contacting us. We use this procedure to better safeguard
-															your information.<br />
-														</p>
-														<p>
-															You can correct factual errors in your personally
+															your information.</p>
+														<p></p>
+														<p>You can correct factual errors in your personally
 															identifiable information by sending us a request that
-															credibly shows error.<br />
-														</p>
-														<p>
-															To protect your privacy and security, we will also take
+															credibly shows error.</p>
+														<p></p>
+														<p>To protect your privacy and security, we will also take
 															reasonable steps to verify your identity before granting
-															access or making corrections.<br />
-														</p>
+															access or making corrections.</p>
+														<p></p>
 													</div>
 												</div>
 											</div>
@@ -239,7 +232,7 @@
 								</div>
 							</div>
 						</div>
-					</section>				
+					</section>			
 				</div>
 			</div>
 		</div>

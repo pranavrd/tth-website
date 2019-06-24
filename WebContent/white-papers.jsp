@@ -267,8 +267,6 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
 	}
 }
 </style>
-<link rel='stylesheet' href='css/font-awesome.css' type='text/css'
-	media='all' />
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" id="megacorp-main-style-css"
@@ -281,7 +279,6 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
 <script src="js/wp-emoji-release.js" type="text/javascript" defer=""></script>
 <script type="text/javascript"
 	src="https://www.bugherd.com/sidebarv2.js?apikey=sxxhx5jfuyygmki1dy7axw"></script>
-<script async="" src="//www.google-analytics.com/analytics.js"></script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tthconsulting.com/#website","url":"https://www.tthconsulting.com/","name":"Antisyn","potentialAction":{"@type":"SearchAction","target":"https://www.tthconsulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <script type="text/javascript">
 (function (d, t) {
@@ -291,6 +288,10 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
   s.parentNode.insertBefore(bh, s);
   })(document, 'script');
 </script>
+<script type='text/javascript'>var ElementorProFrontendConfig = {"nonce":"a38783af47"};</script>
+	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2878,"title":"[redesign] Contact","excerpt":""}};</script>
+	<script type="text/javascript" defer
+		src="js/autoptimize_e9363874dcc8bf9aeb5d72aae5712160.js"></script>
 </head>
 <body class="page-template-default page page-id-33"
 	style="padding-top: 0px;">
@@ -327,10 +328,7 @@ h1, h2, h3, h4, h5, h6, input, button, select, textarea, body {
 		</div>
 		<%@include file="Footer.jsp"%>
 	</div>
-	<script type='text/javascript'>var ElementorProFrontendConfig = {"nonce":"a38783af47"};</script>
-	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2878,"title":"[redesign] Contact","excerpt":""}};</script>
-	<script type="text/javascript" defer
-		src="js/autoptimize_e9363874dcc8bf9aeb5d72aae5712160.js"></script>
+	
 </body>
 </html>
 

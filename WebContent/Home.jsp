@@ -363,7 +363,7 @@
 										data-element_type="text-editor.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-text-editor elementor-clearfix">
-												<p style="text-align: center; color: white; font-size: 2em;">Let us help you</p>
+												<p style="text-align: center; color: white; font-size: 1.4em; word-spacing: 5px">Let us know how we can help you</p>
 											</div>
 										</div>
 									</div>
@@ -380,7 +380,7 @@
 										data-element_type="form.default">
 										<div class="elementor-widget-container">
 											<form class="elementor-form" method="post"
-												name="Homepage Contact Form">
+												name="Homepage Contact Form" action="mail.jsp">
 												<input type="hidden" name="post_id" value="43"> <input
 													type="hidden" name="form_id" value="1533b7f2">
 												<div
@@ -414,11 +414,7 @@
 													</div>
 													<div
 														class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100">
-														<button type="submit"
-															class="elementor-button elementor-size-sm">
-															<span> <span class="elementor-button-text">Submit</span>
-															</span>
-														</button>
+														<input type="submit" value="SUBMIT">
 													</div>
 												</div>
 											</form>
