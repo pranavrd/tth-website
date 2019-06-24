@@ -11,26 +11,6 @@
 <link rel="shortcut icon" href="images/favicon.png" type="image/png">
 <meta name="description"
 	content="TTH Consulting Services offers IT support options for small businesses, non-profits, and other local organizations.">
-<link rel="canonical" href="http://www.tthconsulting.com/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="website">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
-<meta property="og:url" content="">
-<meta property="og:site_name" content="tthconsulting.com">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="">
-<meta name="twitter:title" content="">
-<meta name="twitter:site" content="">
-<meta name="twitter:image" content="">
-<meta name="twitter:creator" content="">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml"
-	title="tthconsulting.com » Feed" href="#">
-<link rel="alternate" type="application/rss+xml"
-	title="tthconsulting.com » Comments Feed" href="#">
-
 <link rel="stylesheet" id="shuttle-google-fonts-css"
 	href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;subset=latin%2Clatin-ext"
 	type="text/css" media="all">
@@ -76,12 +56,11 @@
 <link
 	href="css/all.min.css"
 	rel="stylesheet" type="text/css" media="all">
-	<link rel='stylesheet' href='css/font-awesome.css' type='text/css'
-    media='all' />
+<link
+	href="https://pronto-core-cdn.prontomarketing.com/2/wp-content/themes/phoenix/fontawesome/css/all.min.css"
+	rel="stylesheet" type="text/css" media="all">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" id="elementor-post-2629-css"
-	href="css/autoptimize_single_b43431fb2bd36e7c5d97a4654aa3f438.css"
-	type="text/css" media="all">
+
 <link rel="stylesheet" 
 	href="css/Media.css"
 	type="text/css" media="all">
