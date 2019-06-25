@@ -14,7 +14,7 @@
 					<section data-id="792e301d"
 						class="elementor-element elementor-element-792e301d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section"
 						data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;waves&quot;}"
-						data-element_type="section">
+						data-element_type="section" style="background-image: url(images/Server-room.jpg);">
 						<div class="elementor-shape elementor-shape-bottom"
 							data-negative="false">
 							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100"
