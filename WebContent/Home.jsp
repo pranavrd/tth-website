@@ -28,8 +28,8 @@
 										class="elementor-element elementor-element-37d7df63 elementor-widget elementor-widget-heading"
 										data-element_type="heading.default">
 										<div class="elementor-widget-container">
-											<h2 class="elementor-heading-title elementor-size-default" style="font-size: 3em;">
-												<a href="contact.jsp">Thinking <span style="color: #13aff0">Telecom</span> <br> Simplifying <span style="color: #13aff0">IT</span></a>
+											<h2 class="elementor-heading-title elementor-size-default" style="font-size: 3em; text-align: right;">
+												<a href="contact.jsp">It&#39;s not about<br><span style="color: #13aff0">technology</span><br>It&#39;s about<br><span style="color: #13aff0">people<span></a>
 											</h2>
 										</div>
 									</div>
