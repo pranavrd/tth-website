@@ -23,11 +23,7 @@
 		if (request.getParameter("form_fields[message]") != null) {
 			emailBody = emailBody + "\t Message: " + request.getParameter("form_fields[message]")
 					+ "<br>";
-		}
-		System.out.println(request.getParameter("form_fields[name]"));
-		System.out.println(request.getParameter("form_fields[email]"));
-		System.out.println(request.getParameter("form_fields[phone]"));
-	    System.out.println(request.getParameter("form_fields[message]"));		
+		}			
 
 		javaEmail.createEmailMessage(emailSubject, emailBody);
 		try {

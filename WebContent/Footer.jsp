@@ -20,7 +20,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-image">
 												<img width="300" height="213"
-													src="images/TTH_Logo_2.png"
+													src="images/Final_Logo _Trans1.png"
 													class="attachment-medium size-medium"
 													alt="TTH Logo">
 											</div>

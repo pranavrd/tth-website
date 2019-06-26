@@ -81,7 +81,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-image">
 												<a href="Home.jsp" data-elementor-open-lightbox=""> <img
-													width="520" height="580" src="images/TTH_Logo_2.png"
+													width="520" height="580" src="images/Final_Logo _Trans1.png"
 													class="attachment-full size-full" alt="TTH Logo"
 													style="display: block; margin-left: 0; margin-right: 900px;">
 												</a>
