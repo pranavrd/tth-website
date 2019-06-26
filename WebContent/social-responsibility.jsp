@@ -57,7 +57,7 @@
 												class="elementor-element elementor-element-03cd278 elementor-widget elementor-widget-heading"
 												data-element_type="heading.default">
 												<div class="elementor-widget-container" style="text-align: Center;">
-													<h1 class="elementor-heading-title elementor-size-default">Social Responsibility<br></br></h1>
+													<h3 class="elementor-heading-title elementor-size-default">Social Responsibility<br></br></h3>
 												</div>
 											</div>
 										</div>
@@ -185,13 +185,13 @@
 										</div>
 									</div>
 								</div>
-								<div data-id="922dba0"
-									class="elementor-element elementor-element-922dba0 elementor-column elementor-col-50 elementor-top-column"
+								<div data-id="c6842fa"
+									class="elementor-element elementor-element-c6842fa elementor-column elementor-col-50 elementor-top-column"
 									data-element_type="column">
 									<div class="elementor-column-wrap  elementor-element-populated">
 										<div class="elementor-widget-wrap">
-											<div data-id="34b8b94"
-												class="elementor-element elementor-element-34b8b94 elementor-widget elementor-widget-image"
+											<div data-id="16c4f06"
+												class="elementor-element elementor-element-16c4f06 elementor-widget elementor-widget-image"
 												data-element_type="image.default">
 												<div class="elementor-widget-container">
 													<div class="elementor-image">

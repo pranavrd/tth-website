@@ -29,7 +29,7 @@
 										data-element_type="heading.default">
 										<div class="elementor-widget-container">
 											<h2 class="elementor-heading-title elementor-size-default" style="font-size: 3em;">
-												<a href="contact.jsp">Thinking <span style="color: #13aff0">Telecom</span> <br> Simplifying <span style="color: #13aff0">IT</span></a>
+												<a href="contact.jsp">It&#39;s not about<span style="color: #13aff0"><br>technology</span><br>It&#39;s about<span style="color: #13aff0"><br>people</span></a>
 											</h2>
 										</div>
 									</div>
@@ -436,7 +436,7 @@
 	<script type='text/javascript'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.7","settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2878,"title":"[redesign] Contact","excerpt":""}};</script>
 	<script type="text/javascript" defer=""
 		src="js/autoptimize_1ad937f6b01dbc02efbd4be305cd10f0.js"></script>
-	<div
+	<!-- <div
 		class="dialog-widget dialog-lightbox-widget dialog-type-buttons dialog-type-lightbox elementor-popup-modal"
 		id="elementor-popup-modal-3136" style="display: none;">
 		<div
@@ -448,6 +448,6 @@
 				<i class="eicon-close"></i>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </body>
 </html>
