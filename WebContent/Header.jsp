@@ -120,7 +120,7 @@
 														class="elementor-item elementor-item-active">HOME</a></li>
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a
-														href="#" class="elementor-item ">SERVICES</a>
+														href="#" class="elementor-item ">SERVICES&nbsp;&nbsp;<i class="fa fa-caret-down"></i></a>
 														<ul class="sub-menu elementor-nav-menu--dropdown"
 															id="sm-1559707959005678-2" role="group"
 															aria-hidden="true"
@@ -154,7 +154,7 @@
 														href="About.jsp" class="elementor-item has-submenu"
 														id="sm-1559707959005678-5" aria-haspopup="true"
 														aria-controls="sm-1559707959005678-6"
-														aria-expanded="false">ABOUT US</a>
+														aria-expanded="false">ABOUT US&nbsp;&nbsp;<i class="fa fa-caret-down"></i></a>
 														<ul class="sub-menu elementor-nav-menu--dropdown"
 															id="sm-1559707959005678-6" role="group"
 															aria-hidden="true"
@@ -195,7 +195,7 @@
 														class="elementor-item elementor-item-active">HOME</a></li>
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-68"><a
-														href="#" class="elementor-item has-submenu">SERVICES</a>
+														href="#" class="elementor-item has-submenu">SERVICES&nbsp;&nbsp;<i class="fa fa-caret-down"></i></a>
 														<ul class="sub-menu elementor-nav-menu--dropdown"
 															id="sm-15597079590129868-2" role="group">
 
@@ -225,7 +225,7 @@
 													<li
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-70"><a
 														href="About.jsp" class="elementor-item has-submenu">ABOUT
-															US</a>
+															US&nbsp;&nbsp;<i class="fa fa-caret-down"></i></a>
 														<ul class="sub-menu elementor-nav-menu--dropdown"
 															id="sm-15597079590129868-6" role="group"
 															aria-hidden="true"
